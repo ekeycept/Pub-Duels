@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using CodeMonkey.Utils;
 
 public class Player : MonoBehaviour, IDamageable
 {
@@ -11,13 +12,20 @@ public class Player : MonoBehaviour, IDamageable
     [SerializeField] private float speed = 40f;
     private bool jump = false;
 
+    [SerializeField] private FieldOfView fieldOfView;
+
     void Start()
     {
+        Cursor.visible = false;
         controller = GetComponent<CharacterController2D>();
     }
     
     void Update()
     {
+        Vector3 targetPos = UtilsClass.GetMouseWorldPosition();
+        Vector3 aimDir = (targetPos - transform.position);
+        fieldOfView.SetAimDirection(aimDir);
+
         directionMove = Input.GetAxisRaw("Horizontal") * speed;
 
         if (Input.GetButtonDown("Jump"))
@@ -37,5 +45,4 @@ public class Player : MonoBehaviour, IDamageable
         if (health <= 0)
             Destroy(gameObject);
     }    
-
 }

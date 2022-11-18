@@ -12,9 +12,9 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
+  - Mask
+  - BehindMask
+  - Black
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 3743397915
+    locked: 0
+  - name: Mask
+    uniqueID: 4076009651
+    locked: 0
+  - name: BehindMask
+    uniqueID: 1206392707
+    locked: 0
+  - name: Black
+    uniqueID: 2215351481
     locked: 0
