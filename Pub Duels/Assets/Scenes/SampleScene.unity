@@ -1968,6 +1968,7 @@ GameObject:
   - component: {fileID: 561560988}
   - component: {fileID: 561560982}
   - component: {fileID: 561560989}
+  - component: {fileID: 561560990}
   m_Layer: 7
   m_Name: Player
   m_TagString: Untagged
@@ -2037,7 +2038,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1257816864, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: 597203612, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2111,6 +2112,8 @@ MonoBehaviour:
   health: 100
   controller: {fileID: 561560987}
   speed: 7
+  animator: {fileID: 561560990}
+  sr: {fileID: 561560984}
   fieldOfView: {fileID: 1541668916}
 --- !u!70 &561560989
 CapsuleCollider2D:
@@ -2128,6 +2131,26 @@ CapsuleCollider2D:
   m_Offset: {x: -0.00392361, y: 0.0029693395}
   m_Size: {x: 0.14787251, y: 0.26443234}
   m_Direction: 0
+--- !u!95 &561560990
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561560981}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a45c87ac14f5148489af68d9009263d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &568407932
 GameObject:
   m_ObjectHideFlags: 0
@@ -2912,7 +2935,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.28}
+    oldSize: {x: 0.16, y: 0.27}
     newSize: {x: 0.16, y: 0.28}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -6126,6 +6149,7 @@ GameObject:
   - component: {fileID: 2044726607}
   - component: {fileID: 2044726609}
   - component: {fileID: 2044726608}
+  - component: {fileID: 2044726610}
   m_Layer: 7
   m_Name: Simple Gun
   m_TagString: Untagged
@@ -6141,7 +6165,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2044726606}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0192, y: -0.0177, z: 0}
+  m_LocalPosition: {x: 0.0192, y: -0.025, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6213,7 +6237,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 2053466866, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -290643315, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -6224,6 +6248,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &2044726610
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2044726606}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 00a0d9f3223a1a543bf310ed19b01eda, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2095419748
 GameObject:
   m_ObjectHideFlags: 0
