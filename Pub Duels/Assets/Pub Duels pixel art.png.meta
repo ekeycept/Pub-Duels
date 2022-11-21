@@ -625,9 +625,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 83
-        y: 400
+        y: 417
         width: 49
-        height: 32
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5102,7 +5102,7 @@ TextureImporter:
         width: 1
         height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5123,7 +5123,7 @@ TextureImporter:
         width: 2
         height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -5131,6 +5131,27 @@ TextureImporter:
       bones: []
       spriteID: 824f759fab1891d469553bf5c7647be3
       internalID: 53600656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_239
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 462
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb73bad0861f84f960f1bf825f906d
+      internalID: -5087794
       vertices: []
       indices: 
       edges: []
@@ -5209,6 +5230,7 @@ TextureImporter:
       Pub Duels pixel art_171: -839550988
       Pub Duels pixel art_231: -1330461393
       Pub Duels pixel art_222: -2129205870
+      Pub Duels pixel art_239: -5087794
       Pub Duels pixel art_107: 171176191
       Pub Duels pixel art_131: -1539349192
       Pub Duels pixel art_184: -1336682471
