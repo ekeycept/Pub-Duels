@@ -14,6 +14,7 @@ using UnityEngine;
     [SerializeField] protected GameObject Player;
     [SerializeField] protected Transform shotPoint;
     [SerializeField] protected AudioSource ShotSound;
+    [SerializeField] protected Animator animator;
     protected float ShotsNumber = 0;
     protected bool facingright = true;
     protected SpriteRenderer mySpriteRenderer;
@@ -56,6 +57,7 @@ using UnityEngine;
                 timeBtwShots = startTimeBtwShots;
                 ShotSound.Play();
                 ShotsNumber++;
+                animator.SetTrigger("Shooting");
             }
             else if (ShotsNumber >= MaxShotsNumber || Input.GetKeyDown("r"))
             {
