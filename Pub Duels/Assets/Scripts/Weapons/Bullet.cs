@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Unity.Netcode;
 
-public class Bullet : MonoBehaviour
+public class Bullet : NetworkBehaviour
 {
     public float speed;
     public float lifetime;
@@ -12,7 +13,7 @@ public class Bullet : MonoBehaviour
 
     private void Start()
     {
-        Invoke("DestroyBullet", lifetime);
+        Invoke("DestroyBulletServerRpc", lifetime);
     }
 
     private void Update()
@@ -24,23 +25,27 @@ public class Bullet : MonoBehaviour
     public void DestroyBullet()
     {
         Destroy(gameObject);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        IDamageable damageable = collision.GetComponent<IDamageable>();
-        if (damageable != null)
-        {
-            damageable.GetDamage(damage);
-        }
+        GetComponent<NetworkObject>().Despawn(true);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        IDamageable damageable = collision.gameObject.GetComponent<IDamageable>();
-        if (damageable == null)
+        if (collision != null)
         {
-            Destroy(gameObject);
+            IDamageable damageable = collision.gameObject.GetComponent<IDamageable>();
+            if (damageable == null)
+                DestroyBulletServerRpc();
+            else
+                damageable.GetDamage(damage);
         }
+        else
+            DestroyBulletServerRpc();
+    }
+
+    [ServerRpc]
+    private void DestroyBulletServerRpc()
+    {
+        Destroy(gameObject);
+        GetComponent<NetworkObject>().Despawn(true);
     }
 }

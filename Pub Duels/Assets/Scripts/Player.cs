@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using CodeMonkey.Utils;
+using Unity.Netcode;
 
-public class Player : MonoBehaviour, IDamageable
+public class Player : NetworkBehaviour, IDamageable
 {
     [SerializeField] private int health;
 
@@ -19,11 +20,17 @@ public class Player : MonoBehaviour, IDamageable
     [SerializeField] private GameObject grenade;
     [SerializeField] private Transform grenadePos;
     [SerializeField] private float grenadeSpeed;
+    [SerializeField] private GameObject Gun;
 
     private bool isMoveable = true;
 
     void Start()
     {
+        if (!IsOwner)
+        {
+            return;
+        }
+            SpawnGunServerRpc();
         Cursor.visible = false;
         controller = GetComponent<CharacterController2D>();
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
@@ -31,6 +38,7 @@ public class Player : MonoBehaviour, IDamageable
     
     void Update()
     {
+        if (!IsOwner) return;
         Vector3 targetPos = UtilsClass.GetMouseWorldPosition();
         Vector3 aimDir = (targetPos - transform.position);
         fieldOfView.SetAimDirection(aimDir);
@@ -63,6 +71,7 @@ public class Player : MonoBehaviour, IDamageable
 
     private void FixedUpdate()
     {
+        if (!IsOwner) return;
         controller.Move(directionMove * Time.deltaTime, false, jump);
         jump = false;
         animator.SetBool("isJumping", false);
@@ -74,7 +83,10 @@ public class Player : MonoBehaviour, IDamageable
         StartCoroutine(ColorChange());
 
         if (health <= 0)
-            Destroy(gameObject);
+        {
+            if (!IsOwner) return;
+            DestroyPlayerServerRpc();
+        }
     }
 
     IEnumerator ColorChange()
@@ -97,10 +109,26 @@ public class Player : MonoBehaviour, IDamageable
         yield return new WaitForSeconds(trapTime);
         isMoveable = true;
     }
-/*    private void OnCollisionEnter2D(Collision2D collision)
+    /*    private void OnCollisionEnter2D(Collision2D collision)
+        {
+            if (collision.gameObject.CompareTag("Ground"))
+                Instantiate(effect, transform.position, transform.rotation);
+        }*/
+
+    [ServerRpc]
+    private void DestroyPlayerServerRpc()
     {
-        if (collision.gameObject.CompareTag("Ground"))
-            Instantiate(effect, transform.position, transform.rotation);
-    }*/
+        GetComponent<NetworkObject>().Despawn(true);
+        Destroy(gameObject);
+    }
+
+    [ServerRpc]
+    private void SpawnGunServerRpc()
+    {
+        GameObject gun = Instantiate(Gun);
+        gun.GetComponent<NetworkObject>().Spawn(true);
+        gun.transform.SetParent(gameObject.transform);
+        Debug.Log("Gun has been instatiate!");
+    }
 }
 
