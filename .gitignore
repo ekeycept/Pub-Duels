@@ -2,16 +2,20 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-[Ll]ibrary/
+Pub Duels/Library
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[Uu]serSettings/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+[Aa]ssets/Pub Duels pixel art.png.meta
+[Aa]ssets/Pub Duels pixel art.png
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -57,5 +61,5 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+default-2021.dwlt
 Pub Duels/Assets/Scenes/Stepa, scene.unity
