@@ -12,15 +12,10 @@ public class Player : MonoBehaviour, IDamageable
     [SerializeField] private float speed = 40f;
     private bool jump = false;
     [SerializeField] private Animator animator;
+    private bool isRunning = false;
     public SpriteRenderer sr;
-    [SerializeField] private GameObject effect;
 
     [SerializeField] private FieldOfView fieldOfView;
-    [SerializeField] private GameObject grenade;
-    [SerializeField] private Transform grenadePos;
-    [SerializeField] private float grenadeSpeed;
-
-    private bool isMoveable = true;
 
     void Start()
     {
@@ -35,16 +30,10 @@ public class Player : MonoBehaviour, IDamageable
         Vector3 aimDir = (targetPos - transform.position);
         fieldOfView.SetAimDirection(aimDir);
 
-        if (isMoveable)
-        {
-            directionMove = Input.GetAxisRaw("Horizontal") * speed;
-        }
+        directionMove = Input.GetAxisRaw("Horizontal") * speed;
 
         if (directionMove != 0)
-        {
             animator.SetBool("isRunning", true);
-        }
-
         else
             animator.SetBool("isRunning", false);
 
@@ -56,9 +45,6 @@ public class Player : MonoBehaviour, IDamageable
 
         if (Input.GetKeyDown(KeyCode.H))
             GetDamage(2);
-
-        if (Input.GetMouseButtonDown(1))
-            Instantiate(grenade, grenadePos.position, transform.rotation);
     }
 
     private void FixedUpdate()
@@ -83,24 +69,6 @@ public class Player : MonoBehaviour, IDamageable
         yield return new WaitForSeconds(.7f);
         sr.color = Color.white;
     }
-
-    public void GetTrapped(float trapTime)
-    {
-       //transform.position = trapPos.position;
-        StartCoroutine(Trap(trapTime));
-    }
-
-    IEnumerator Trap(float trapTime)
-    {
-        isMoveable = false;
-        directionMove = 0;
-        yield return new WaitForSeconds(trapTime);
-        isMoveable = true;
-    }
-/*    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-            Instantiate(effect, transform.position, transform.rotation);
-    }*/
+    
 }
 

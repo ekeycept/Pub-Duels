@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -132,7 +132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5837532655e0d4d4c9a4992fca2aaba4
-      internalID: 3221416062547381880
+      internalID: -403096300
       vertices: []
       indices: 
       edges: []
@@ -153,7 +153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4e51538a728982b499d49a2036ec1542
-      internalID: 8476857066902199941
+      internalID: 1603389909
       vertices: []
       indices: 
       edges: []
@@ -174,7 +174,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 06d05a8a72023004eb0b3793691723db
-      internalID: 3546058910505251964
+      internalID: 478692343
       vertices: []
       indices: 
       edges: []
@@ -195,7 +195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f8e32cb8ab9ef484eb328acd32152ead
-      internalID: 3937769780112622596
+      internalID: 847486716
       vertices: []
       indices: 
       edges: []
@@ -216,7 +216,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 832231e4f0680ef45bfc29b73b2bab90
-      internalID: 6201961859896769561
+      internalID: -2053202187
       vertices: []
       indices: 
       edges: []
@@ -225,10 +225,10 @@ TextureImporter:
       name: Pub Duels pixel art_6
       rect:
         serializedVersion: 2
-        x: 91
-        y: 452
-        width: 18
-        height: 6
+        x: 110
+        y: 456
+        width: 143
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,7 +237,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: edd63958417fbb14fb484832071b76f3
-      internalID: -5696471252428410073
+      internalID: -1874420383
       vertices: []
       indices: 
       edges: []
@@ -258,7 +258,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7367683133448974dbd91f79ac69d027
-      internalID: 5537558155469909374
+      internalID: -1821376213
       vertices: []
       indices: 
       edges: []
@@ -279,7 +279,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 974eaae29c0aad94294e88c420d9ef31
-      internalID: 3176462070429442551
+      internalID: -537732588
       vertices: []
       indices: 
       edges: []
@@ -300,7 +300,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ee4e7ec62a7c3d04c9cdd5f59b733f57
-      internalID: -1887603081631211754
+      internalID: 1860620769
       vertices: []
       indices: 
       edges: []
@@ -321,7 +321,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f4a278ff8754a004f8c0de3d6daef3ea
-      internalID: 7468688830846591965
+      internalID: 222082086
       vertices: []
       indices: 
       edges: []
@@ -342,7 +342,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6a9c2fa88aff4974b8a3c92816b33e23
-      internalID: 958714403336963539
+      internalID: 1257816864
       vertices: []
       indices: 
       edges: []
@@ -363,7 +363,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 409e6dbc47522cb47924615fcd076d16
-      internalID: -8344656750753666063
+      internalID: -32199497
       vertices: []
       indices: 
       edges: []
@@ -384,7 +384,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df0442a5d2079014895afa1b554da6f0
-      internalID: -7227176598846960108
+      internalID: 777536025
       vertices: []
       indices: 
       edges: []
@@ -405,7 +405,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c70cc00700dce7e4a9fe12f58ec5fd60
-      internalID: 1842392354827757201
+      internalID: -1329777306
       vertices: []
       indices: 
       edges: []
@@ -415,9 +415,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 656
-        y: 464
+        y: 460
         width: 10
-        height: 4
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,7 +426,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e29eaf415eb9c4448af8ec05487e3432
-      internalID: 5808539516626789412
+      internalID: 702460727
       vertices: []
       indices: 
       edges: []
@@ -447,7 +447,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c5da3ab9b9dc2c49bd5b3c0d4cafadf
-      internalID: -725968297527845182
+      internalID: -1771482591
       vertices: []
       indices: 
       edges: []
@@ -468,7 +468,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 726e954589f7318408fd51344e3bdfa2
-      internalID: -5884068233312302386
+      internalID: -2136206145
       vertices: []
       indices: 
       edges: []
@@ -478,9 +478,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 694
-        y: 464
+        y: 456
         width: 19
-        height: 6
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,7 +489,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 73a378c4ead9c5643ab41ed6d5ae0a15
-      internalID: 8598943597042180255
+      internalID: -1003158073
       vertices: []
       indices: 
       edges: []
@@ -510,7 +510,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8326792a1e65114681cc547ffeba59b
-      internalID: -3865596451174240736
+      internalID: -290643315
       vertices: []
       indices: 
       edges: []
@@ -520,9 +520,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 747
-        y: 464
+        y: 460
         width: 29
-        height: 7
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,7 +531,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 513f403e6d264434295feed378cb6cb1
-      internalID: -4869739976324905484
+      internalID: 2053466866
       vertices: []
       indices: 
       edges: []
@@ -552,7 +552,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 14c9774de7e2cb04294de9710629d83b
-      internalID: 6569140320255601573
+      internalID: 996145313
       vertices: []
       indices: 
       edges: []
@@ -573,7 +573,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a2184af9e30c90a4abfb15976c5a340b
-      internalID: 9009060329855818288
+      internalID: -1910098920
       vertices: []
       indices: 
       edges: []
@@ -582,10 +582,10 @@ TextureImporter:
       name: Pub Duels pixel art_24
       rect:
         serializedVersion: 2
-        x: 45
+        x: 40
         y: 416
         width: 28
-        height: 17
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,7 +594,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 06c589eb7b984a24baa3d70aa5c1e86d
-      internalID: 5766541957913480468
+      internalID: -707400678
       vertices: []
       indices: 
       edges: []
@@ -603,19 +603,19 @@ TextureImporter:
       name: Pub Duels pixel art_25
       rect:
         serializedVersion: 2
-        x: 91
-        y: 462
-        width: 18
-        height: 3
+        x: 65
+        y: 416
+        width: 8
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: d5c13809e951b3249a337a93d945388b
-      internalID: -3472430213297136712
+      internalID: -2066692169
       vertices: []
       indices: 
       edges: []
@@ -626,7 +626,7 @@ TextureImporter:
         serializedVersion: 2
         x: 83
         y: 417
-        width: 43
+        width: 49
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -636,7 +636,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 661afbd2d8246214baca59fdfd91c99a
-      internalID: 4421299855414109976
+      internalID: -135988829
       vertices: []
       indices: 
       edges: []
@@ -657,7 +657,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1c3287cd78081846858cc80020f1a94
-      internalID: -7829791850597917026
+      internalID: 2017004479
       vertices: []
       indices: 
       edges: []
@@ -678,7 +678,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09de08d0759c4a6459a95a490780e1bb
-      internalID: -7147053022259894556
+      internalID: 132139398
       vertices: []
       indices: 
       edges: []
@@ -699,7 +699,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c35553727ea75cf4396a937535c8458c
-      internalID: -7729860318190530757
+      internalID: -353294177
       vertices: []
       indices: 
       edges: []
@@ -720,7 +720,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 39ead9fceda86d9439db6caef6e7543b
-      internalID: 122920432378330479
+      internalID: 1154156065
       vertices: []
       indices: 
       edges: []
@@ -741,7 +741,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08f436f96208a5440a2f2571befc01c2
-      internalID: -2166525469526664690
+      internalID: -1074496355
       vertices: []
       indices: 
       edges: []
@@ -762,7 +762,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd7448072739b1f49ab43ca911e44eb0
-      internalID: -6201671809365404151
+      internalID: -1743495361
       vertices: []
       indices: 
       edges: []
@@ -783,7 +783,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c82937f9c77cd0d49914fe6b1adcb023
-      internalID: -8816904155929383744
+      internalID: -2079163132
       vertices: []
       indices: 
       edges: []
@@ -804,7 +804,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c0df052e89f4f541bea2c105aa6e3fb
-      internalID: 8169556702015894708
+      internalID: 1440624367
       vertices: []
       indices: 
       edges: []
@@ -825,7 +825,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5e2059dd9dddea54bbaacbd454607cfb
-      internalID: 299052629275450366
+      internalID: -1606107646
       vertices: []
       indices: 
       edges: []
@@ -846,7 +846,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b65fa38f6eb2644d9f22b64d5360e1d
-      internalID: 4717601885237277510
+      internalID: -1750264957
       vertices: []
       indices: 
       edges: []
@@ -867,7 +867,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9ae69257182449448ab246686fe3a2a2
-      internalID: -61766801629985278
+      internalID: -24151350
       vertices: []
       indices: 
       edges: []
@@ -888,7 +888,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60119777a9f15a541a2ef9a4d0532017
-      internalID: -1567064081967322887
+      internalID: -1007228244
       vertices: []
       indices: 
       edges: []
@@ -909,7 +909,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 648a6e6abd9e0e646ac70e02af83f39a
-      internalID: -5023695301586024586
+      internalID: -1561034639
       vertices: []
       indices: 
       edges: []
@@ -930,7 +930,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42985c15f48d6ac489ce2c88c887140b
-      internalID: -3211523730627372235
+      internalID: -909347817
       vertices: []
       indices: 
       edges: []
@@ -951,7 +951,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed1464f276463d046b8a0c9d79653eca
-      internalID: 3529643906509279070
+      internalID: 205926088
       vertices: []
       indices: 
       edges: []
@@ -960,10 +960,10 @@ TextureImporter:
       name: Pub Duels pixel art_45
       rect:
         serializedVersion: 2
-        x: 640
-        y: 432
-        width: 5
-        height: 5
+        x: 610
+        y: 423
+        width: 50
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,7 +972,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4b2903a93d004148b189bc1c1bebc5d
-      internalID: -1582666900993149779
+      internalID: -827494173
       vertices: []
       indices: 
       edges: []
@@ -981,10 +981,10 @@ TextureImporter:
       name: Pub Duels pixel art_47
       rect:
         serializedVersion: 2
-        x: 650
-        y: 432
-        width: 7
-        height: 7
+        x: 648
+        y: 420
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,7 +993,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3856e53584a69e34e8cbe4d96b70aa4f
-      internalID: -8275682283512579966
+      internalID: 415538687
       vertices: []
       indices: 
       edges: []
@@ -1002,10 +1002,10 @@ TextureImporter:
       name: Pub Duels pixel art_48
       rect:
         serializedVersion: 2
-        x: 663
+        x: 661
         y: 432
         width: 11
-        height: 9
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,7 +1014,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 923495ca3d0571144bd3f3c0ab1f37fb
-      internalID: 7342833002730051285
+      internalID: 1863759176
       vertices: []
       indices: 
       edges: []
@@ -1024,9 +1024,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 680
-        y: 432
-        width: 13
-        height: 10
+        y: 416
+        width: 40
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,7 +1035,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16285146aff1570409ea628f7a812ad6
-      internalID: -9216398820674447194
+      internalID: 853389400
       vertices: []
       indices: 
       edges: []
@@ -1056,7 +1056,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 301c94ae08a0b804ab7bb25a0f46d121
-      internalID: 1362865487103873481
+      internalID: 1376157193
       vertices: []
       indices: 
       edges: []
@@ -1077,7 +1077,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fd0294e30ea719a46a358db2d8d7cbe8
-      internalID: -16830192314735790
+      internalID: -1012199696
       vertices: []
       indices: 
       edges: []
@@ -1087,9 +1087,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 385
-        width: 15
-        height: 16
+        y: 379
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,7 +1098,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38f477276201ce444ad5c8210376f877
-      internalID: 3836813423602923476
+      internalID: -403867995
       vertices: []
       indices: 
       edges: []
@@ -1107,19 +1107,19 @@ TextureImporter:
       name: Pub Duels pixel art_53
       rect:
         serializedVersion: 2
-        x: 87
-        y: 251
-        width: 18
-        height: 3
+        x: 120
+        y: 380
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 8ecb366956cbd2c4099497e494fa104b
-      internalID: -463425612873047072
+      internalID: 1235612108
       vertices: []
       indices: 
       edges: []
@@ -1140,7 +1140,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0195bbb0b6427ff4aab91e18f5a6d1df
-      internalID: 8652022030007065551
+      internalID: -454158706
       vertices: []
       indices: 
       edges: []
@@ -1161,7 +1161,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3778ca6ef7f157c4191cf757eec70d01
-      internalID: -8844166785976846798
+      internalID: -252821845
       vertices: []
       indices: 
       edges: []
@@ -1182,7 +1182,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fe91299c655c444dbeab3d721aa7bec
-      internalID: 8548612757501191083
+      internalID: 905365911
       vertices: []
       indices: 
       edges: []
@@ -1203,7 +1203,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e67d694731cb48a4f8cd6016a5aa6bb9
-      internalID: -2850892659829095895
+      internalID: -943957972
       vertices: []
       indices: 
       edges: []
@@ -1224,7 +1224,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c3579c9e8fd44a64fafa646fdd87fed9
-      internalID: 6710795261437665006
+      internalID: -1230665710
       vertices: []
       indices: 
       edges: []
@@ -1245,7 +1245,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9902f9c36e53424eaef1ce08907c2fb
-      internalID: 2149809147965586814
+      internalID: 1802176657
       vertices: []
       indices: 
       edges: []
@@ -1266,7 +1266,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b8a92a304578c54bba8ab70403d84f8
-      internalID: -4048221338805195424
+      internalID: 1378891338
       vertices: []
       indices: 
       edges: []
@@ -1287,7 +1287,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46cad56e3b118804ea28477af4ded9be
-      internalID: 6067271192480004913
+      internalID: -425164642
       vertices: []
       indices: 
       edges: []
@@ -1299,7 +1299,7 @@ TextureImporter:
         x: 436
         y: 384
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,7 +1308,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3605326a54149e4b90a80cbeefc0eaa
-      internalID: 2562116380802452330
+      internalID: 1326404505
       vertices: []
       indices: 
       edges: []
@@ -1320,7 +1320,7 @@ TextureImporter:
         x: 456
         y: 384
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,7 +1329,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9bfc31daeb076d742936ac5021c0378d
-      internalID: -9092956149559549926
+      internalID: 51512251
       vertices: []
       indices: 
       edges: []
@@ -1341,7 +1341,7 @@ TextureImporter:
         x: 568
         y: 384
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ccca349906876bb4bb136e1ece36e147
-      internalID: 8936803853636758806
+      internalID: 260404263
       vertices: []
       indices: 
       edges: []
@@ -1359,10 +1359,10 @@ TextureImporter:
       name: Pub Duels pixel art_71
       rect:
         serializedVersion: 2
-        x: 640
-        y: 384
-        width: 8
-        height: 8
+        x: 632
+        y: 376
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,7 +1371,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a1614bb29b2ce6468cf459ec54329e3
-      internalID: -7842148362888483631
+      internalID: 35096503
       vertices: []
       indices: 
       edges: []
@@ -1392,7 +1392,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e9c43c76dd4dccb43871462316b34833
-      internalID: 8943845389076157395
+      internalID: 43706637
       vertices: []
       indices: 
       edges: []
@@ -1401,10 +1401,10 @@ TextureImporter:
       name: Pub Duels pixel art_73
       rect:
         serializedVersion: 2
-        x: 658
-        y: 386
-        width: 12
-        height: 7
+        x: 654
+        y: 381
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,7 +1413,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3ef6e7a04c3920a43b131a8d0d51b3e6
-      internalID: -3247209744575666030
+      internalID: -1969857004
       vertices: []
       indices: 
       edges: []
@@ -1434,7 +1434,28 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a397e6e5dbe085342aa7aff8e195673f
-      internalID: 8440021948525292672
+      internalID: -263218637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_75
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 379
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99891b4c5e8c8cc43823b48fccf7d768
+      internalID: 784428043
       vertices: []
       indices: 
       edges: []
@@ -1455,7 +1476,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e56235396dbcff44fbf0765d41a80a82
-      internalID: -3925142578432952266
+      internalID: 1231702327
       vertices: []
       indices: 
       edges: []
@@ -1476,7 +1497,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af5cda33ed8b70a479f37b78eb6a77ea
-      internalID: 9047703767056941958
+      internalID: -2110804271
       vertices: []
       indices: 
       edges: []
@@ -1485,10 +1506,10 @@ TextureImporter:
       name: Pub Duels pixel art_78
       rect:
         serializedVersion: 2
-        x: 682
-        y: 386
-        width: 11
-        height: 7
+        x: 681
+        y: 378
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1497,7 +1518,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0ce6cdd434219814ba933c079609b168
-      internalID: -4805334321609523586
+      internalID: 202191477
       vertices: []
       indices: 
       edges: []
@@ -1506,10 +1527,10 @@ TextureImporter:
       name: Pub Duels pixel art_79
       rect:
         serializedVersion: 2
-        x: 692
-        y: 401
-        width: 7
-        height: 3
+        x: 688
+        y: 394
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,7 +1539,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f12e08b54ffcca64cbb0a7896f039570
-      internalID: -8153575204169221285
+      internalID: 1470389677
       vertices: []
       indices: 
       edges: []
@@ -1527,10 +1548,10 @@ TextureImporter:
       name: Pub Duels pixel art_80
       rect:
         serializedVersion: 2
-        x: 698
-        y: 367
-        width: 32
-        height: 12
+        x: 691
+        y: 364
+        width: 38
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1539,7 +1560,28 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 17374d35e8d5e6c4a9116a1720e64fdf
-      internalID: 4407422568117745223
+      internalID: -1143071957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_84
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 380
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee17a73f6bea864699b2636cb3b0a11
+      internalID: 498135132
       vertices: []
       indices: 
       edges: []
@@ -1548,19 +1590,19 @@ TextureImporter:
       name: Pub Duels pixel art_86
       rect:
         serializedVersion: 2
-        x: 651
-        y: 160
-        width: 3
-        height: 7
+        x: 196
+        y: 376
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: ad5d645215c16024b9370ad3e9ce09e8
-      internalID: 6204029831002533559
+      internalID: 1394211282
       vertices: []
       indices: 
       edges: []
@@ -1581,7 +1623,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 39c8e1f67ea00b84789067d096c8238f
-      internalID: -900584587732534945
+      internalID: -1981347198
       vertices: []
       indices: 
       edges: []
@@ -1602,7 +1644,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f17169a90aa474429accfb931496034
-      internalID: 1816113427043201153
+      internalID: -108090292
       vertices: []
       indices: 
       edges: []
@@ -1614,7 +1656,7 @@ TextureImporter:
         x: 436
         y: 352
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,7 +1665,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c4262e83b381a340abad7af62fa43a0
-      internalID: -3084031839979734678
+      internalID: 1941155413
       vertices: []
       indices: 
       edges: []
@@ -1635,7 +1677,7 @@ TextureImporter:
         x: 456
         y: 352
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1644,7 +1686,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56646c388c3b06f47b7fcac4a702140e
-      internalID: 3556354690391809580
+      internalID: 2142783360
       vertices: []
       indices: 
       edges: []
@@ -1656,7 +1698,7 @@ TextureImporter:
         x: 496
         y: 352
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1665,7 +1707,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 933cb4d9a861cfb4bada9d823f12da33
-      internalID: -7693825599227479899
+      internalID: -343470181
       vertices: []
       indices: 
       edges: []
@@ -1686,7 +1728,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef654f43c1186e341968f22ffcbdd504
-      internalID: -6215938286878909078
+      internalID: -2063312248
       vertices: []
       indices: 
       edges: []
@@ -1707,7 +1749,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4de5541befc8a5445bef200514d2c313
-      internalID: 5468191777890986756
+      internalID: 730970714
       vertices: []
       indices: 
       edges: []
@@ -1718,8 +1760,8 @@ TextureImporter:
         serializedVersion: 2
         x: 568
         y: 352
-        width: 16
-        height: 27
+        width: 44
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,7 +1770,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c58dcc9a28cb8ff4896b502687c55a99
-      internalID: 8723009911600426951
+      internalID: -834249202
       vertices: []
       indices: 
       edges: []
@@ -1738,7 +1780,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 366
+        y: 369
         width: 4
         height: 9
       alignment: 0
@@ -1749,7 +1791,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a39fc34adde6124f9e0098f5bd59cd7
-      internalID: 7718930147355587365
+      internalID: 620504255
       vertices: []
       indices: 
       edges: []
@@ -1759,9 +1801,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 656
-        y: 367
+        y: 370
         width: 32
-        height: 10
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,7 +1812,28 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8a6a2d64e126c243b6d285a619ac50a
-      internalID: -4341368062714193675
+      internalID: 115160250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_99
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 376
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c94838ce82ad040b21dfa23b4f2d4c
+      internalID: -1591023534
       vertices: []
       indices: 
       edges: []
@@ -1780,8 +1843,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 736
-        y: 367
-        width: 32
+        y: 370
+        width: 36
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1791,7 +1854,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a547eb345776ec14d8e77071bceb3b9e
-      internalID: -5399323852068412283
+      internalID: 889435381
       vertices: []
       indices: 
       edges: []
@@ -1801,7 +1864,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 816
-        y: 367
+        y: 370
         width: 32
         height: 10
       alignment: 0
@@ -1812,7 +1875,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2832a52c9b10cd64f84a87d1a410e904
-      internalID: -5367432552041044419
+      internalID: 957579362
       vertices: []
       indices: 
       edges: []
@@ -1833,7 +1896,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 81a13651aa6e8bb409c5eb45cbae7c9b
-      internalID: -2372341425794361781
+      internalID: 1982619662
       vertices: []
       indices: 
       edges: []
@@ -1842,10 +1905,10 @@ TextureImporter:
       name: Pub Duels pixel art_104
       rect:
         serializedVersion: 2
-        x: 67
+        x: 58
         y: 347
-        width: 17
-        height: 24
+        width: 33
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,7 +1917,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5aad48631e8df2646bcd45ea0fcc6815
-      internalID: -5245691971070523960
+      internalID: -669768754
       vertices: []
       indices: 
       edges: []
@@ -1863,10 +1926,10 @@ TextureImporter:
       name: Pub Duels pixel art_105
       rect:
         serializedVersion: 2
-        x: 99
+        x: 96
         y: 347
-        width: 19
-        height: 24
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,7 +1938,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 430d3b60a74f09d49a99b73c903cc24a
-      internalID: 3087045598703809466
+      internalID: 1839476906
       vertices: []
       indices: 
       edges: []
@@ -1887,7 +1950,7 @@ TextureImporter:
         x: 126
         y: 347
         width: 80
-        height: 24
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1896,7 +1959,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3dae5ddf71fd9c46b63d3d00418c634
-      internalID: -2012550563381548850
+      internalID: 990161491
       vertices: []
       indices: 
       edges: []
@@ -1917,7 +1980,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1c78b914e689f0d44959b0d08cc20af8
-      internalID: 623882607904551696
+      internalID: 171176191
       vertices: []
       indices: 
       edges: []
@@ -1938,7 +2001,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 17114978fc3ca4d4bb218654acec5874
-      internalID: -5661859919138507267
+      internalID: -983272585
       vertices: []
       indices: 
       edges: []
@@ -1959,7 +2022,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e249db7444e4ab644959bf43cb9da187
-      internalID: 2369675504819692597
+      internalID: 1141350874
       vertices: []
       indices: 
       edges: []
@@ -1980,7 +2043,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 96c34fdf8658c0c4a82f642cd54508e2
-      internalID: 2776424845171854812
+      internalID: 891127210
       vertices: []
       indices: 
       edges: []
@@ -1992,7 +2055,7 @@ TextureImporter:
         x: 436
         y: 320
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2001,7 +2064,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98a559efa4b45ca44a3bf6bb40e0b528
-      internalID: -1618577735212368399
+      internalID: 1062299311
       vertices: []
       indices: 
       edges: []
@@ -2013,7 +2076,7 @@ TextureImporter:
         x: 456
         y: 320
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2022,7 +2085,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 903b5d0ffe89807448919c65de6c339a
-      internalID: 9196701512185729166
+      internalID: 319476275
       vertices: []
       indices: 
       edges: []
@@ -2043,7 +2106,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f398880be19c60442945c6e092c4d9c0
-      internalID: -538145243652829803
+      internalID: -1092227402
       vertices: []
       indices: 
       edges: []
@@ -2053,9 +2116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 496
-        y: 320
-        width: 16
-        height: 27
+        y: 318
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2064,7 +2127,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13c6cf1f01c8fb94c9fe3f8adc99fe66
-      internalID: -3805568197921214275
+      internalID: 2027431004
       vertices: []
       indices: 
       edges: []
@@ -2085,7 +2148,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83b0ec91188c8014ba9d286f536ad58f
-      internalID: -2443541337895420667
+      internalID: -198956573
       vertices: []
       indices: 
       edges: []
@@ -2106,7 +2169,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf16784e09a354540804d8be6f5af379
-      internalID: -6512124899112594940
+      internalID: -1421652239
       vertices: []
       indices: 
       edges: []
@@ -2127,7 +2190,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1437de0fa02f13245b76cb0159d2688b
-      internalID: -70371380267426748
+      internalID: 205246659
       vertices: []
       indices: 
       edges: []
@@ -2137,9 +2200,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 334
-        width: 4
-        height: 5
+        y: 337
+        width: 7
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,7 +2211,28 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f2b40d63bd4752e49ba3f729e931b469
-      internalID: 8319999631756534419
+      internalID: 1319191283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_119
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 348
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc1469aa962c5478533b18ac7dd062
+      internalID: -1237785995
       vertices: []
       indices: 
       edges: []
@@ -2158,7 +2242,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 660
-        y: 334
+        y: 337
         width: 7
         height: 4
       alignment: 0
@@ -2169,7 +2253,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d1d7066eb44d8bc49a20e02d7f13d577
-      internalID: 7776555160798414122
+      internalID: -456646096
       vertices: []
       indices: 
       edges: []
@@ -2178,10 +2262,10 @@ TextureImporter:
       name: Pub Duels pixel art_121
       rect:
         serializedVersion: 2
-        x: 680
-        y: 332
-        width: 32
-        height: 23
+        x: 676
+        y: 328
+        width: 41
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2190,7 +2274,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a38779ff30e414f488109f96737bc13b
-      internalID: -191017944330933720
+      internalID: 891899910
       vertices: []
       indices: 
       edges: []
@@ -2199,9 +2283,9 @@ TextureImporter:
       name: Pub Duels pixel art_122
       rect:
         serializedVersion: 2
-        x: 721
-        y: 333
-        width: 26
+        x: 718
+        y: 336
+        width: 34
         height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2211,7 +2295,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41f1f4f5070a1774a9980aa181e3f2fb
-      internalID: 4615744367160963951
+      internalID: -504333954
       vertices: []
       indices: 
       edges: []
@@ -2221,7 +2305,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 759
-        y: 332
+        y: 335
         width: 21
         height: 16
       alignment: 0
@@ -2232,7 +2316,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c912529fb5780244bb14e0b7619b6dd
-      internalID: -4055487225797992371
+      internalID: 558286546
       vertices: []
       indices: 
       edges: []
@@ -2244,7 +2328,7 @@ TextureImporter:
         x: 401
         y: 448
         width: 16
-        height: 27
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2253,7 +2337,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f996f751cc6d8c469faead8f567cc7b
-      internalID: -5878134866966349160
+      internalID: 597203612
       vertices: []
       indices: 
       edges: []
@@ -2274,7 +2358,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8d55a390a11e2d4b9c8ba29a649d7ac
-      internalID: 7285177382700154035
+      internalID: -1102845699
       vertices: []
       indices: 
       edges: []
@@ -2295,7 +2379,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6f2098a920f9ab94d8419709767f9bfb
-      internalID: 2703871553752988261
+      internalID: 1466808378
       vertices: []
       indices: 
       edges: []
@@ -2316,7 +2400,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fff4a52cd900e9b47a4be35dba96c5b7
-      internalID: -2231482323103361284
+      internalID: 1782178916
       vertices: []
       indices: 
       edges: []
@@ -2325,19 +2409,19 @@ TextureImporter:
       name: Pub Duels pixel art_46
       rect:
         serializedVersion: 2
-        x: 640
-        y: 350
-        width: 7
-        height: 3
+        x: 639
+        y: 420
+        width: 5
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: cc12eb94381d08843849721198c3cfe6
-      internalID: -2066078818873108412
+      internalID: 1562816054
       vertices: []
       indices: 
       edges: []
@@ -2348,8 +2432,8 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 380
-        width: 35
-        height: 25
+        width: 38
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2358,7 +2442,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92d7afe76be81564787f96e9b534e899
-      internalID: -1643782027602120127
+      internalID: 1907543544
       vertices: []
       indices: 
       edges: []
@@ -2379,7 +2463,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4dbcef014180b62438d94f9ef127749f
-      internalID: -6004975365633763256
+      internalID: 1674019151
       vertices: []
       indices: 
       edges: []
@@ -2400,7 +2484,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eba9be2dfac04484195dfe2f20ee90b3
-      internalID: 4567157787372229499
+      internalID: -1792775093
       vertices: []
       indices: 
       edges: []
@@ -2411,8 +2495,8 @@ TextureImporter:
         serializedVersion: 2
         x: 476
         y: 352
-        width: 16
-        height: 27
+        width: 20
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2421,7 +2505,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f17e05b7c0ea6534b9589c95042278c0
-      internalID: -4106547384758346983
+      internalID: 227695211
       vertices: []
       indices: 
       edges: []
@@ -2433,7 +2517,7 @@ TextureImporter:
         x: 496
         y: 384
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2442,7 +2526,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2570e4a630c0224e8893e46ea10dbd8
-      internalID: -6415419526915181601
+      internalID: 219849142
       vertices: []
       indices: 
       edges: []
@@ -2463,7 +2547,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ba67df760418cb42a9e5340dade1604
-      internalID: -2236082818069457564
+      internalID: -1306123925
       vertices: []
       indices: 
       edges: []
@@ -2484,7 +2568,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 15648a000e45fb04f91a0d63bd7651c8
-      internalID: 3654477485934902152
+      internalID: 1876183163
       vertices: []
       indices: 
       edges: []
@@ -2505,7 +2589,70 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b2a1d870c61597f43aa6933c3997e791
-      internalID: 4613908464969054880
+      internalID: -1157359155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_82
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 385
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06c479f008172144812e32c5a6ac804
+      internalID: -1101447983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 404
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c0b7788ecda84fa19895374b3413c
+      internalID: -649600916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_85
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 404
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d7139cc6043d4384b1fc44ceaf071
+      internalID: -1400258670
       vertices: []
       indices: 
       edges: []
@@ -2526,7 +2673,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46feee149f511c247b44c30add6b45d0
-      internalID: -3705992685067562421
+      internalID: -1267260581
       vertices: []
       indices: 
       edges: []
@@ -2547,7 +2694,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c93ef432b569a445aaf846466e9aa1a
-      internalID: -7799964944430731378
+      internalID: -49543461
       vertices: []
       indices: 
       edges: []
@@ -2557,9 +2704,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 775
-        y: 367
+        y: 370
         width: 32
-        height: 12
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2568,7 +2715,28 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84392c4b4c7a1a146a1fe405744e275b
-      internalID: -8663006142760119378
+      internalID: -1741878424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_124
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 339
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93623b3923350c54d920335ca005ab8e
+      internalID: 843257844
       vertices: []
       indices: 
       edges: []
@@ -2589,7 +2757,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a0a105e23d4ae1a418b67419134e05e6
-      internalID: -3079243541186234693
+      internalID: 1141889117
       vertices: []
       indices: 
       edges: []
@@ -2610,7 +2778,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a828ee7a8223364cb14779fc6366de6
-      internalID: 1285813376930784611
+      internalID: 882994679
       vertices: []
       indices: 
       edges: []
@@ -2631,7 +2799,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 66634460793f0154eb95ac210e8e2ce5
-      internalID: -4189668140820781687
+      internalID: 1223388671
       vertices: []
       indices: 
       edges: []
@@ -2652,7 +2820,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f2558773cccbbf4a84042a687da1b16
-      internalID: -6084197497258914140
+      internalID: 1752481035
       vertices: []
       indices: 
       edges: []
@@ -2673,7 +2841,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 187dacd5cc6b647469caac927d1b2228
-      internalID: -4549386731431846615
+      internalID: -1480285624
       vertices: []
       indices: 
       edges: []
@@ -2694,7 +2862,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 797dcad1f2f7d9941be8386b112b4a36
-      internalID: 4440490665075844392
+      internalID: 1073843792
       vertices: []
       indices: 
       edges: []
@@ -2715,7 +2883,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ec750084f65cb7e40b0bda3394f3f65e
-      internalID: -8453589377284756469
+      internalID: -1539349192
       vertices: []
       indices: 
       edges: []
@@ -2736,7 +2904,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a29840544dc15a499df022257294916
-      internalID: 6006163998418438156
+      internalID: -1406172119
       vertices: []
       indices: 
       edges: []
@@ -2757,7 +2925,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a378ea9f45109894ab8ee4517059738e
-      internalID: 2723201910342768598
+      internalID: -1097969725
       vertices: []
       indices: 
       edges: []
@@ -2778,7 +2946,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f15da0090dc08e24c8ef36ef113b7ed8
-      internalID: 2446574717437333722
+      internalID: 1434104446
       vertices: []
       indices: 
       edges: []
@@ -2790,7 +2958,7 @@ TextureImporter:
         x: 436
         y: 288
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2799,7 +2967,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 387b1aed0072e3d4eadb61fe0aab51c1
-      internalID: -8267183197746659141
+      internalID: -2096904975
       vertices: []
       indices: 
       edges: []
@@ -2811,7 +2979,7 @@ TextureImporter:
         x: 456
         y: 288
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2820,7 +2988,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4df7c035bcefb094496ae52c1b8b405a
-      internalID: 7084045985183312049
+      internalID: -656552998
       vertices: []
       indices: 
       edges: []
@@ -2841,7 +3009,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1fc32a7ff9a872447ad3c543ea2694c6
-      internalID: 204325184512838166
+      internalID: 263385175
       vertices: []
       indices: 
       edges: []
@@ -2853,7 +3021,7 @@ TextureImporter:
         x: 496
         y: 288
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2862,7 +3030,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4e58423d469c7142b78f528bd49cdac
-      internalID: 2246395061444354428
+      internalID: -1736484430
       vertices: []
       indices: 
       edges: []
@@ -2883,7 +3051,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c5855dc40566912428236983917d7960
-      internalID: -4812333021724712165
+      internalID: -555324433
       vertices: []
       indices: 
       edges: []
@@ -2904,7 +3072,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50c92b8d57dc4f548b7f6c1929c3cfb9
-      internalID: 8992778379770014288
+      internalID: -909635714
       vertices: []
       indices: 
       edges: []
@@ -2915,8 +3083,8 @@ TextureImporter:
         serializedVersion: 2
         x: 568
         y: 288
-        width: 16
-        height: 28
+        width: 42
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2925,7 +3093,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8dcc3141f9142694f81331638c29c37c
-      internalID: 5501978693959848159
+      internalID: -840527508
       vertices: []
       indices: 
       edges: []
@@ -2946,7 +3114,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae3acd5b868720e458ff446f8b4bb07f
-      internalID: -4409471001574690047
+      internalID: 1437237731
       vertices: []
       indices: 
       edges: []
@@ -2967,7 +3135,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49b8b4a5ec249ef46908a75b217e7fce
-      internalID: -1545155407352206648
+      internalID: -789146282
       vertices: []
       indices: 
       edges: []
@@ -2988,7 +3156,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc1e2dad8bfae8f4584875277da898f7
-      internalID: -135380668255239702
+      internalID: 1486921199
       vertices: []
       indices: 
       edges: []
@@ -2999,7 +3167,7 @@ TextureImporter:
         serializedVersion: 2
         x: 377
         y: 238
-        width: 16
+        width: 27
         height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3009,7 +3177,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bd6f1591486ec5e4c929425be2b7286d
-      internalID: 3022150166266230345
+      internalID: 1378578121
       vertices: []
       indices: 
       edges: []
@@ -3020,8 +3188,8 @@ TextureImporter:
         serializedVersion: 2
         x: 416
         y: 240
-        width: 16
-        height: 27
+        width: 20
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3030,7 +3198,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a4bf094278eec84594fd01b43f57a95
-      internalID: 7680276086797893738
+      internalID: -1636606380
       vertices: []
       indices: 
       edges: []
@@ -3042,7 +3210,7 @@ TextureImporter:
         x: 436
         y: 240
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3051,7 +3219,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eab4da9d19c8f8f4a9e700b04118c753
-      internalID: 4928460369220732375
+      internalID: 788973849
       vertices: []
       indices: 
       edges: []
@@ -3063,7 +3231,7 @@ TextureImporter:
         x: 456
         y: 240
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3072,7 +3240,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 85753663700b5df4f91d8cfb00acdf0d
-      internalID: 677815609299560968
+      internalID: -1708158084
       vertices: []
       indices: 
       edges: []
@@ -3093,7 +3261,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b99677a03763994183a19f41d8bda1b
-      internalID: 8963327738929141737
+      internalID: 368977613
       vertices: []
       indices: 
       edges: []
@@ -3105,7 +3273,7 @@ TextureImporter:
         x: 494
         y: 240
         width: 18
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3114,7 +3282,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4bce8fe581f865546b57454b38580e74
-      internalID: -6282752170669684340
+      internalID: -1927435791
       vertices: []
       indices: 
       edges: []
@@ -3135,7 +3303,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ba5434b2af02af345928289c37da9540
-      internalID: -5830376086093923600
+      internalID: 1989863559
       vertices: []
       indices: 
       edges: []
@@ -3156,7 +3324,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8aa51ccea9d9272499cf6e2f59342a76
-      internalID: 6180338679816622339
+      internalID: 488166338
       vertices: []
       indices: 
       edges: []
@@ -3167,8 +3335,8 @@ TextureImporter:
         serializedVersion: 2
         x: 568
         y: 240
-        width: 16
-        height: 27
+        width: 42
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3177,7 +3345,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 14c07e36f9bfa6b4f97e2659435e47ea
-      internalID: 311115182935202443
+      internalID: 1216280709
       vertices: []
       indices: 
       edges: []
@@ -3198,7 +3366,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84c068707c01f9d4886fe320e0287ede
-      internalID: -7226620291220127141
+      internalID: 931094561
       vertices: []
       indices: 
       edges: []
@@ -3219,7 +3387,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 100155c87713a91498ad06ce7cb06b39
-      internalID: -4606450677878137088
+      internalID: 1262078904
       vertices: []
       indices: 
       edges: []
@@ -3229,9 +3397,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 241
+        y: 240
         width: 18
-        height: 20
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3240,7 +3408,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b2eed32fbd10a2e4d9a399f4746e5cf6
-      internalID: -4839503918530887660
+      internalID: -458968094
       vertices: []
       indices: 
       edges: []
@@ -3261,7 +3429,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28711c8b037eca64babf9019e482e2f3
-      internalID: 753796063247976646
+      internalID: 631629499
       vertices: []
       indices: 
       edges: []
@@ -3272,7 +3440,7 @@ TextureImporter:
         serializedVersion: 2
         x: 62
         y: 240
-        width: 18
+        width: 43
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3282,7 +3450,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ebc7799bd16ca5f48a2253b6e8ceb948
-      internalID: -5155214610305820422
+      internalID: 1320988005
       vertices: []
       indices: 
       edges: []
@@ -3303,7 +3471,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b89510d6aab8584b8173e041204d0d5
-      internalID: -7454407676125109531
+      internalID: -554884568
       vertices: []
       indices: 
       edges: []
@@ -3324,7 +3492,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b843ec5a6fe5b224ba0aaf130f76ec80
-      internalID: 1747791288303603963
+      internalID: 1253164614
       vertices: []
       indices: 
       edges: []
@@ -3345,7 +3513,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4249d10af2e94748be3931efd6a9b8f
-      internalID: -5431276916419792565
+      internalID: -1231435684
       vertices: []
       indices: 
       edges: []
@@ -3366,7 +3534,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 02d2682b44af57945987ae98fc5573e3
-      internalID: 7332666607084477574
+      internalID: -1550806206
       vertices: []
       indices: 
       edges: []
@@ -3377,8 +3545,8 @@ TextureImporter:
         serializedVersion: 2
         x: 98
         y: 224
-        width: 37
-        height: 10
+        width: 68
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3387,7 +3555,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a691bc91c6a36174db1ccbfb3e219b95
-      internalID: 5545357397603697377
+      internalID: 1937320172
       vertices: []
       indices: 
       edges: []
@@ -3396,9 +3564,9 @@ TextureImporter:
       name: Pub Duels pixel art_164
       rect:
         serializedVersion: 2
-        x: 336
+        x: 306
         y: 208
-        width: 16
+        width: 46
         height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3408,7 +3576,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 77a36a2e7fc97ff4b85a5da4cb7c62e3
-      internalID: 6275508536140165651
+      internalID: 483922983
       vertices: []
       indices: 
       edges: []
@@ -3429,7 +3597,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 280deaea2b8600845bf22048c8bd6618
-      internalID: -3622559513641758185
+      internalID: 15856277
       vertices: []
       indices: 
       edges: []
@@ -3450,7 +3618,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 81526b6752427e1409ff8d90676ee1ab
-      internalID: -8708538169597743165
+      internalID: 1526333859
       vertices: []
       indices: 
       edges: []
@@ -3471,7 +3639,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b940a4582f37b34cb24c0597c3e024d
-      internalID: 1092679862355065417
+      internalID: 1545834722
       vertices: []
       indices: 
       edges: []
@@ -3483,7 +3651,7 @@ TextureImporter:
         x: 436
         y: 208
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3492,7 +3660,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cf05a81c8b576534bbc8dd8d772de039
-      internalID: -5501198703891968134
+      internalID: 1163035428
       vertices: []
       indices: 
       edges: []
@@ -3504,7 +3672,7 @@ TextureImporter:
         x: 456
         y: 208
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3513,7 +3681,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d384ab8a30a573b4eafeb6f7a1443868
-      internalID: 5185713612931428016
+      internalID: -1463388842
       vertices: []
       indices: 
       edges: []
@@ -3534,7 +3702,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c463433b6b46cc74a8a0c549d98e1fcb
-      internalID: 4507788512652926029
+      internalID: 1722499157
       vertices: []
       indices: 
       edges: []
@@ -3546,7 +3714,7 @@ TextureImporter:
         x: 496
         y: 208
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3555,7 +3723,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f51a0e731c455948ac54d033be85ab5
-      internalID: 8921672754391109980
+      internalID: -839550988
       vertices: []
       indices: 
       edges: []
@@ -3576,7 +3744,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db7136a0fe64e3b429c32c3e3e7f3f21
-      internalID: -4537018491017842103
+      internalID: 1313939231
       vertices: []
       indices: 
       edges: []
@@ -3597,7 +3765,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a5da24577567b00418eb4c38774b6a2d
-      internalID: 6251348268353580029
+      internalID: -885922441
       vertices: []
       indices: 
       edges: []
@@ -3609,7 +3777,7 @@ TextureImporter:
         x: 568
         y: 208
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3618,7 +3786,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d1586ce72c85b5b499fefbffbff4e604
-      internalID: 4387425649193150775
+      internalID: -1863670699
       vertices: []
       indices: 
       edges: []
@@ -3639,7 +3807,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c59cbeefe4d4f1743bb132dca55816ac
-      internalID: 7126651168040128972
+      internalID: -1147797521
       vertices: []
       indices: 
       edges: []
@@ -3660,7 +3828,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a4786d025768c1d4c94a0364c85a917b
-      internalID: 7807465311514200375
+      internalID: 676485479
       vertices: []
       indices: 
       edges: []
@@ -3681,7 +3849,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 023687becab67fd44b94151eb4c86472
-      internalID: -8923447756532855632
+      internalID: -1947028925
       vertices: []
       indices: 
       edges: []
@@ -3702,7 +3870,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ca1c9c8e046eab24a9a29748642e76fc
-      internalID: 2130230618913700452
+      internalID: 543553560
       vertices: []
       indices: 
       edges: []
@@ -3723,7 +3891,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0faffb60c767da04594b90eac2a3af3c
-      internalID: -459504644156384050
+      internalID: 595219481
       vertices: []
       indices: 
       edges: []
@@ -3744,7 +3912,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2889b9d5112ce4e438d0a47bca684d1a
-      internalID: -1988962194026146147
+      internalID: 1749561136
       vertices: []
       indices: 
       edges: []
@@ -3765,7 +3933,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8ae1306e92adf0c4099b83b717d8529b
-      internalID: -1085886059965249771
+      internalID: -1910062104
       vertices: []
       indices: 
       edges: []
@@ -3786,7 +3954,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db961a5ee485c324a8a8f99ffb6d064e
-      internalID: 5482306481778257211
+      internalID: 1213959890
       vertices: []
       indices: 
       edges: []
@@ -3797,7 +3965,7 @@ TextureImporter:
         serializedVersion: 2
         x: 57
         y: 203
-        width: 19
+        width: 23
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3807,7 +3975,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c45d9e2b6b5926d4b87e7e6511963519
-      internalID: -5936912477957827837
+      internalID: -806446012
       vertices: []
       indices: 
       edges: []
@@ -3828,7 +3996,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e0c3c10a30fe0c4da62d5512228fbee
-      internalID: 3837711244712491553
+      internalID: -1336682471
       vertices: []
       indices: 
       edges: []
@@ -3837,10 +4005,10 @@ TextureImporter:
       name: Pub Duels pixel art_185
       rect:
         serializedVersion: 2
-        x: 192
+        x: 184
         y: 144
-        width: 38
-        height: 49
+        width: 60
+        height: 69
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3849,7 +4017,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82d7ad8773a157b4a9c535d9f0a6cdc5
-      internalID: 3415401529133931492
+      internalID: -1100318822
       vertices: []
       indices: 
       edges: []
@@ -3870,7 +4038,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa7311377ce3e68488442df3b9ec857a
-      internalID: -4686437735171425183
+      internalID: -1703074546
       vertices: []
       indices: 
       edges: []
@@ -3879,9 +4047,9 @@ TextureImporter:
       name: Pub Duels pixel art_187
       rect:
         serializedVersion: 2
-        x: 335
+        x: 307
         y: 176
-        width: 16
+        width: 44
         height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3891,7 +4059,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d239a562f37bd0647afd59384668ff78
-      internalID: 3191997299362799291
+      internalID: 982385121
       vertices: []
       indices: 
       edges: []
@@ -3912,7 +4080,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 931d637677fb4cd49959a1a295a822f8
-      internalID: -1649399831738905024
+      internalID: 592269326
       vertices: []
       indices: 
       edges: []
@@ -3933,7 +4101,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 63fa4622d0d15e346ba600d98bc74dba
-      internalID: -6970860885202184310
+      internalID: 917239189
       vertices: []
       indices: 
       edges: []
@@ -3954,7 +4122,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe4708aa0a310ee49aa62b673712ef7b
-      internalID: 2566676555095366546
+      internalID: 446437829
       vertices: []
       indices: 
       edges: []
@@ -3966,7 +4134,7 @@ TextureImporter:
         x: 436
         y: 176
         width: 16
-        height: 27
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3975,7 +4143,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08b0d193aeb21094584b15cbf6a92e3f
-      internalID: -4396836092533338797
+      internalID: -1402268076
       vertices: []
       indices: 
       edges: []
@@ -3987,7 +4155,7 @@ TextureImporter:
         x: 456
         y: 176
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3996,7 +4164,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 80a66e40b6b2f9f46be9870e741a42d8
-      internalID: -2121452245525685339
+      internalID: -1677141990
       vertices: []
       indices: 
       edges: []
@@ -4017,7 +4185,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 413112157a46aec4b90b26540b9cc9f6
-      internalID: 8364401004787372296
+      internalID: -894647012
       vertices: []
       indices: 
       edges: []
@@ -4029,7 +4197,7 @@ TextureImporter:
         x: 496
         y: 176
         width: 16
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4038,7 +4206,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c4735a597d3efc4188285719cb8f7ec
-      internalID: 2221549013758214360
+      internalID: -314016185
       vertices: []
       indices: 
       edges: []
@@ -4059,7 +4227,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 55ea304a21c521e45a252823a6adce37
-      internalID: 8357556961313816351
+      internalID: -958423120
       vertices: []
       indices: 
       edges: []
@@ -4080,7 +4248,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0e0d47fb1dca79459503daa6ec81d5e
-      internalID: 9187664183307222175
+      internalID: -1077504913
       vertices: []
       indices: 
       edges: []
@@ -4091,8 +4259,8 @@ TextureImporter:
         serializedVersion: 2
         x: 568
         y: 176
-        width: 16
-        height: 27
+        width: 42
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4101,7 +4269,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 572eed8f4e50414409a574c9b31e51a6
-      internalID: -1156678017932096086
+      internalID: -1106469322
       vertices: []
       indices: 
       edges: []
@@ -4122,7 +4290,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b83dc34d2ebe674384e34b058edb324
-      internalID: 6602074211993555768
+      internalID: -470650245
       vertices: []
       indices: 
       edges: []
@@ -4143,7 +4311,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3e34619841f64f7479289f0b1aff6d19
-      internalID: -525134645876958872
+      internalID: 1666623937
       vertices: []
       indices: 
       edges: []
@@ -4164,7 +4332,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e5e3ff6d02ce96f428c4b4db109cad24
-      internalID: 5487769446521658471
+      internalID: 1028296253
       vertices: []
       indices: 
       edges: []
@@ -4185,7 +4353,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd9344e72cfde6c46a5e905dcb1e5bec
-      internalID: 5452017969878381654
+      internalID: -1376677767
       vertices: []
       indices: 
       edges: []
@@ -4206,7 +4374,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c629f063e93cf174a914852b3509e8e1
-      internalID: 6909529573512542323
+      internalID: 811073587
       vertices: []
       indices: 
       edges: []
@@ -4227,7 +4395,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: be26775294c99e64a812ddfb9153650b
-      internalID: -5695123484087417526
+      internalID: -403853043
       vertices: []
       indices: 
       edges: []
@@ -4248,7 +4416,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64d18152e8ee3d240bc29f02207e0114
-      internalID: -2487424050620252846
+      internalID: 283717874
       vertices: []
       indices: 
       edges: []
@@ -4258,9 +4426,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 160
+        y: 156
         width: 32
-        height: 7
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4269,7 +4437,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f813ec567749e88499bb8e2e9fc9925c
-      internalID: -3038934081279367679
+      internalID: 1458110432
       vertices: []
       indices: 
       edges: []
@@ -4280,7 +4448,7 @@ TextureImporter:
         serializedVersion: 2
         x: 38
         y: 176
-        width: 16
+        width: 33
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4290,7 +4458,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cdc018712525ac1458e89d3b20805c16
-      internalID: 4289696759139717354
+      internalID: -158295035
       vertices: []
       indices: 
       edges: []
@@ -4299,19 +4467,19 @@ TextureImporter:
       name: Pub Duels pixel art_207
       rect:
         serializedVersion: 2
-        x: 671
-        y: 160
-        width: 3
-        height: 7
+        x: 48
+        y: 158
+        width: 7
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 75e5e4b2542f1544f92633a9564de503
-      internalID: 7347382971734860549
+      internalID: -762750384
       vertices: []
       indices: 
       edges: []
@@ -4321,9 +4489,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 144
-        width: 23
-        height: 21
+        y: 125
+        width: 28
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4332,7 +4500,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08ceadd348635954c84127d84a3cdfec
-      internalID: -761772638778808146
+      internalID: -527154948
       vertices: []
       indices: 
       edges: []
@@ -4353,7 +4521,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c36fe24403d42b348a5aa4c604d72878
-      internalID: -5723152485682300733
+      internalID: -651708140
       vertices: []
       indices: 
       edges: []
@@ -4374,7 +4542,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f4d2edc70ccff574189e56e2c057e115
-      internalID: 384733094892621420
+      internalID: -1766162398
       vertices: []
       indices: 
       edges: []
@@ -4395,7 +4563,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a3635b9caa2ade4a9d2bac572bd080e
-      internalID: 2289438859974763186
+      internalID: 1240826508
       vertices: []
       indices: 
       edges: []
@@ -4404,7 +4572,7 @@ TextureImporter:
       name: Pub Duels pixel art_212
       rect:
         serializedVersion: 2
-        x: 250
+        x: 242
         y: 176
         width: 11
         height: 8
@@ -4416,7 +4584,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36ce82875a4620746911d8b9db68e557
-      internalID: 1243623002744602548
+      internalID: -1522457983
       vertices: []
       indices: 
       edges: []
@@ -4425,10 +4593,10 @@ TextureImporter:
       name: Pub Duels pixel art_213
       rect:
         serializedVersion: 2
-        x: 251
+        x: 243
         y: 161
-        width: 5
-        height: 10
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4437,7 +4605,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1c95db8e4e14f9f4cbe72da340f6a75e
-      internalID: 4860643344602537999
+      internalID: -1581060079
       vertices: []
       indices: 
       edges: []
@@ -4446,7 +4614,7 @@ TextureImporter:
       name: Pub Duels pixel art_214
       rect:
         serializedVersion: 2
-        x: 265
+        x: 257
         y: 176
         width: 11
         height: 8
@@ -4458,7 +4626,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3b2d0067ef271c949a8669525d74991e
-      internalID: 3706341643915503841
+      internalID: -1472560999
       vertices: []
       indices: 
       edges: []
@@ -4467,7 +4635,7 @@ TextureImporter:
       name: Pub Duels pixel art_215
       rect:
         serializedVersion: 2
-        x: 267
+        x: 259
         y: 161
         width: 5
         height: 9
@@ -4479,7 +4647,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76027b8d1b76f6c4ab9132ea2cecbf18
-      internalID: -3383354402135126763
+      internalID: 636064282
       vertices: []
       indices: 
       edges: []
@@ -4500,7 +4668,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48160108dbb41ad49923dccd93082df9
-      internalID: 4463243469108613629
+      internalID: -43497403
       vertices: []
       indices: 
       edges: []
@@ -4521,7 +4689,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6987f85efd4e0614cb439cbe35a9c64b
-      internalID: 1478709967993666421
+      internalID: -620785298
       vertices: []
       indices: 
       edges: []
@@ -4542,7 +4710,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ec7fb222ff975544ea393a38488a5c58
-      internalID: 1893825434684015043
+      internalID: 1957741339
       vertices: []
       indices: 
       edges: []
@@ -4563,7 +4731,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e58e5883d37bda45a1073aac1854aec
-      internalID: -5250025073090233946
+      internalID: 1904996332
       vertices: []
       indices: 
       edges: []
@@ -4575,7 +4743,7 @@ TextureImporter:
         x: 436
         y: 144
         width: 16
-        height: 28
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4584,7 +4752,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38402fa4976af2b418570a770ca7e56c
-      internalID: 8141015475237499678
+      internalID: 910626779
       vertices: []
       indices: 
       edges: []
@@ -4596,7 +4764,7 @@ TextureImporter:
         x: 456
         y: 144
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4605,7 +4773,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f0a4bcd3818b5b4bb517920b9004e3f
-      internalID: 8577243081332187942
+      internalID: 996115402
       vertices: []
       indices: 
       edges: []
@@ -4626,7 +4794,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b87a8146e9cfb843a44ac490fed7124
-      internalID: 2748156613334706205
+      internalID: -2129205870
       vertices: []
       indices: 
       edges: []
@@ -4638,7 +4806,7 @@ TextureImporter:
         x: 496
         y: 144
         width: 16
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4647,7 +4815,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dda58754b85c6f943bcbdc8b4ab2334e
-      internalID: -6605075968860930761
+      internalID: -2028744255
       vertices: []
       indices: 
       edges: []
@@ -4668,7 +4836,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd4d93d1c4f6dca44a8842eab56d3ce4
-      internalID: -5524182169718997825
+      internalID: 66743599
       vertices: []
       indices: 
       edges: []
@@ -4689,7 +4857,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68f20501141fe1f40b569efd59ba39d0
-      internalID: -2579882743720233583
+      internalID: -355470142
       vertices: []
       indices: 
       edges: []
@@ -4701,7 +4869,7 @@ TextureImporter:
         x: 566
         y: 144
         width: 18
-        height: 28
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4710,7 +4878,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c230e15ca66dc394aab30fda2a37b7e1
-      internalID: 6096505243680842508
+      internalID: 1412999366
       vertices: []
       indices: 
       edges: []
@@ -4720,9 +4888,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 640
-        y: 176
+        y: 160
         width: 59
-        height: 12
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4731,7 +4899,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4c693f71fc2faef44899df9a4a9ffe0d
-      internalID: -713611978161176653
+      internalID: -780187237
       vertices: []
       indices: 
       edges: []
@@ -4740,19 +4908,19 @@ TextureImporter:
       name: Pub Duels pixel art_228
       rect:
         serializedVersion: 2
-        x: 676
-        y: 160
-        width: 3
-        height: 7
+        x: 236
+        y: 156
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 39b2fbc418a16d84989c971c9e09fc7f
-      internalID: -1713720921060043511
+      internalID: -1874447518
       vertices: []
       indices: 
       edges: []
@@ -4761,9 +4929,9 @@ TextureImporter:
       name: Pub Duels pixel art_229
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 144
-        width: 7
+        width: 23
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4773,7 +4941,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 706d14214f88e8a4999a4f700fc064dd
-      internalID: -399854842933071858
+      internalID: -1675245886
       vertices: []
       indices: 
       edges: []
@@ -4782,10 +4950,10 @@ TextureImporter:
       name: Pub Duels pixel art_230
       rect:
         serializedVersion: 2
-        x: 32
+        x: 30
         y: 144
-        width: 16
-        height: 11
+        width: 18
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4794,7 +4962,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 163277cf1c890054e8b029a84515ee44
-      internalID: 4867668832114977090
+      internalID: -935256866
       vertices: []
       indices: 
       edges: []
@@ -4803,19 +4971,19 @@ TextureImporter:
       name: Pub Duels pixel art_231
       rect:
         serializedVersion: 2
-        x: 681
-        y: 160
-        width: 3
-        height: 7
+        x: 144
+        y: 144
+        width: 4
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: d067778479035c94ab0665b834e666de
-      internalID: 5835798566213807165
+      internalID: -1330461393
       vertices: []
       indices: 
       edges: []
@@ -4824,49 +4992,7 @@ TextureImporter:
       name: Pub Duels pixel art_232
       rect:
         serializedVersion: 2
-        x: 686
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13005ca1327c306448a175d2f916e483
-      internalID: 1337270177564376287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_233
-      rect:
-        serializedVersion: 2
-        x: 696
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 468154f782308044e9dcbc90d8e1f994
-      internalID: -4381845770231535417
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_234
-      rect:
-        serializedVersion: 2
-        x: 250
+        x: 242
         y: 145
         width: 4
         height: 8
@@ -4877,8 +5003,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+      spriteID: 13005ca1327c306448a175d2f916e483
+      internalID: 1555866437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_233
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 145
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468154f782308044e9dcbc90d8e1f994
+      internalID: 1047960807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pub Duels pixel art_234
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 145
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
       spriteID: 0a15b4a937915e344a8ad04ae582e06a
-      internalID: 2861916991917156804
+      internalID: 725805353
       vertices: []
       indices: 
       edges: []
@@ -4887,7 +5055,7 @@ TextureImporter:
       name: Pub Duels pixel art_235
       rect:
         serializedVersion: 2
-        x: 260
+        x: 263
         y: 145
         width: 4
         height: 8
@@ -4899,7 +5067,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: caff90a07b7f89149838020e2b62da12
-      internalID: -7486280713109429431
+      internalID: 745683324
       vertices: []
       indices: 
       edges: []
@@ -4908,7 +5076,7 @@ TextureImporter:
       name: Pub Duels pixel art_236
       rect:
         serializedVersion: 2
-        x: 266
+        x: 268
         y: 145
         width: 4
         height: 8
@@ -4920,7 +5088,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c45e8c74c8e04214787ae7be55ccd446
-      internalID: -1889281526352535735
+      internalID: -1398002306
       vertices: []
       indices: 
       edges: []
@@ -4941,7 +5109,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 751b3429a791247489e03d2bf9852580
-      internalID: -7215349972392074854
+      internalID: 1674915742
       vertices: []
       indices: 
       edges: []
@@ -4962,196 +5130,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 824f759fab1891d469553bf5c7647be3
-      internalID: -8638949624746522157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e97eb03825dee720800000000000000
-      internalID: 2877471580529523173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_75
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 145
-        width: 4
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9117f5b6d5f01c42aa987d5bda2d414
-      internalID: 993550929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_82
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 145
-        width: 4
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58dab4a46a93180468de49670c141666
-      internalID: 233735129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_83
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 145
-        width: 4
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9376de4fe9a566e4783f8d658832079a
-      internalID: 827027920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_84
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 160
-        width: 2
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b56a6ad5e42bba4fb01cd54483ef6b3
-      internalID: 333551570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_85
-      rect:
-        serializedVersion: 2
-        x: 645
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8dcfd5589cf13945b32e27bef7e5908
-      internalID: -788923835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_99
-      rect:
-        serializedVersion: 2
-        x: 656
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97bc13293a50bd544bc26326b4cc2672
-      internalID: 1214525433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_119
-      rect:
-        serializedVersion: 2
-        x: 661
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41eea25b3099bfd45916789a8f0aa90a
-      internalID: -1731276018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_124
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 160
-        width: 3
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: def5c09575675b4438c5ef7553c525b6
-      internalID: 1417645492
+      internalID: 53600656
       vertices: []
       indices: 
       edges: []
@@ -5160,10 +5139,10 @@ TextureImporter:
       name: Pub Duels pixel art_239
       rect:
         serializedVersion: 2
-        x: 496
-        y: 467
-        width: 9
-        height: 1
+        x: 493
+        y: 462
+        width: 17
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5171,134 +5150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd81453e807cc1049927fa75bf6b7257
-      internalID: -1400065902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_240
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 464
-        width: 2
-        height: 1
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d76de1ee4eaa4e141bb9a46d6cac7a77
-      internalID: 639011022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_241
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 464
-        width: 9
-        height: 1
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47e05940797ab514ab5c855d00d14b28
-      internalID: -1702828663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_242
-      rect:
-        serializedVersion: 2
-        x: 658
-        y: 460
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c69486dd7ff3b4642b8d7994a8f31c13
-      internalID: -1771859181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_243
-      rect:
-        serializedVersion: 2
-        x: 675
-        y: 460
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6ccc44fac8513340b544c467ed2dc0c
-      internalID: 983706252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_244
-      rect:
-        serializedVersion: 2
-        x: 754
-        y: 460
-        width: 3
-        height: 1
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8400869ad5d48064fbb59e445d87bfee
-      internalID: -1933216221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pub Duels pixel art_245
-      rect:
-        serializedVersion: 2
-        x: 656
-        y: 350
-        width: 5
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffd89ce0792ec324fa31749a5d995a4b
-      internalID: -1866199382
+      spriteID: 8ceb73bad0861f84f960f1bf825f906d
+      internalID: -5087794
       vertices: []
       indices: 
       edges: []
@@ -5306,7 +5159,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6ec77a94b40c06740a5dc2b1d2ff3768
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -5314,252 +5167,246 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pub Duels pixel art_37: -61766801629985278
-      Pub Duels pixel art_111: -1618577735212368399
-      Pub Duels pixel art_203: -5695123484087417526
-      Pub Duels pixel art_167: 1092679862355065417
-      Pub Duels pixel art_57: -2850892659829095895
-      Pub Duels pixel art_151: -5830376086093923600
-      Pub Duels pixel art_79: -8153575204169221285
-      Pub Duels pixel art_109: 2369675504819692597
-      Pub Duels pixel art_145: 3022150166266230345
-      Pub Duels pixel art_192: -2121452245525685339
-      Pub Duels pixel art_64: -9092956149559549926
-      Pub Duels pixel art_96: 8723009911600426951
-      Pub Duels pixel art_169: 5185713612931428016
-      Pub Duels pixel art_11: -5878134866966349160
-      Pub Duels pixel art_212: 1243623002744602548
-      Pub Duels pixel art_38: -1567064081967322887
-      Pub Duels pixel art_51: -1567064081967322887
-      Pub Duels pixel art_225: -2579882743720233583
-      Pub Duels pixel art_102: -5367432552041044419
-      Pub Duels pixel art_36: 4717601885237277510
-      Pub Duels pixel art_163: 5545357397603697377
-      Pub Duels pixel art_88: -3705992685067562421
-      Pub Duels pixel art_72: 8943845389076157395
-      Pub Duels pixel art_89: 1816113427043201153
-      Pub Duels pixel art_115: -2443541337895420667
-      Pub Duels pixel art_142: -4409471001574690047
-      Pub Duels pixel art_43: -2231482323103361284
-      Pub Duels pixel art_143: -1545155407352206648
-      Pub Duels pixel art_86: 6204029831002533559
-      Pub Duels pixel art_50: -1643782027602120127
-      Pub Duels pixel art_195: 8357556961313816351
-      Pub Duels pixel art_138: 2246395061444354428
-      Pub Duels pixel art_128: -6084197497258914140
-      Pub Duels pixel art_179: -459504644156384050
-      Pub Duels pixel art_162: 7332666607084477574
-      Pub Duels pixel art_242: -1771859181
-      Pub Duels pixel art_104: -5245691971070523960
-      Pub Duels pixel art_137: 204325184512838166
-      Pub Duels pixel art_21: -4869739976324905484
-      Pub Duels pixel art_160: 1747791288303603963
-      Pub Duels pixel art_153: 311115182935202443
-      Pub Duels pixel art_99: 1214525433
-      Pub Duels pixel art_190: 2566676555095366546
-      Pub Duels pixel art_27: -7829791850597917026
-      Pub Duels pixel art_35: 299052629275450366
-      Pub Duels pixel art_61: -4048221338805195424
-      Pub Duels pixel art_146: 7680276086797893738
-      Pub Duels pixel art_16: 5808539516626789412
-      Pub Duels pixel art_227: -713611978161176653
-      Pub Duels pixel art_63: 2562116380802452330
-      Pub Duels pixel art_120: 7776555160798414122
-      Pub Duels pixel art_20: -3865596451174240736
-      Pub Duels pixel art_223: -6605075968860930761
-      Pub Duels pixel art_218: 1893825434684015043
-      Pub Duels pixel art_98: -4341368062714193675
-      Pub Duels pixel art_238: -8638949624746522157
-      Pub Duels pixel art_81: 4613908464969054880
-      Pub Duels pixel art_164: 6275508536140165651
-      Pub Duels pixel art_6: -5696471252428410073
-      Pub Duels pixel art_144: -135380668255239702
-      Pub Duels pixel art_172: -4537018491017842103
-      Pub Duels pixel art_171: 8921672754391109980
-      Pub Duels pixel art_231: 5835798566213807165
-      Pub Duels pixel art_222: 2748156613334706205
-      Pub Duels pixel art_239: -1400065902
-      Pub Duels pixel art_107: 623882607904551696
-      Pub Duels pixel art_131: -8453589377284756469
-      Pub Duels pixel art_184: 3837711244712491553
-      Pub Duels pixel art_113: -538145243652829803
-      Pub Duels pixel art_22: 6569140320255601573
-      Pub Duels pixel art_183: -5936912477957827837
-      Pub Duels pixel art_110: 2776424845171854812
-      Pub Duels pixel art_170: 4507788512652926029
-      Pub Duels pixel art_187: 3191997299362799291
-      Pub Duels pixel art_13: -8344656750753666063
-      Pub Duels pixel art_82: 233735129
-      Pub Duels pixel art_188: -1649399831738905024
-      Pub Duels pixel art_101: -8663006142760119378
-      Pub Duels pixel art_148: 677815609299560968
-      Pub Duels pixel art_197: -1156678017932096086
-      Pub Duels pixel art_118: 8319999631756534419
-      Pub Duels pixel art_114: -3805568197921214275
-      Pub Duels pixel art_84: 333551570
-      Pub Duels pixel art_147: 4928460369220732375
-      Pub Duels pixel art_73: -3247209744575666030
-      Pub Duels pixel art_92: 3556354690391809580
-      Pub Duels pixel art_87: -900584587732534945
-      Pub Duels pixel art_91: -3084031839979734678
-      Pub Duels pixel art_49: -9216398820674447194
-      Pub Duels pixel art_140: 8992778379770014288
-      Pub Duels pixel art_174: 4387425649193150775
-      Pub Duels pixel art_136: 7084045985183312049
-      Pub Duels pixel art_232: 1337270177564376287
-      Pub Duels pixel art_196: 9187664183307222175
-      Pub Duels pixel art_4: 6201961859896769561
-      Pub Duels pixel art_42: 2703871553752988261
-      Pub Duels pixel art_59: 2149809147965586814
-      Pub Duels pixel art_175: 7126651168040128972
-      Pub Duels pixel art_18: -5884068233312302386
-      Pub Duels pixel art_53: -463425612873047072
-      Pub Duels pixel art_198: 6602074211993555768
-      Pub Duels pixel art_66: -4106547384758346983
-      Pub Duels pixel art_127: -4189668140820781687
-      Pub Duels pixel art_177: -8923447756532855632
-      Pub Duels pixel art_112: 9196701512185729166
-      Pub Duels pixel art_209: -5723152485682300733
-      Pub Duels pixel art_60: -6004975365633763256
-      Pub Duels pixel art_185: 3415401529133931492
-      Pub Duels pixel art_226: 6096505243680842508
-      Pub Duels pixel art_69: 3654477485934902152
-      Pub Duels pixel art_173: 6251348268353580029
-      Pub Duels pixel art_119: -1731276018
-      Pub Duels pixel art_34: 8169556702015894708
-      Pub Duels pixel art_71: -7842148362888483631
-      Pub Duels pixel art_219: -5250025073090233946
-      Pub Duels pixel art_178: 2130230618913700452
-      Pub Duels pixel art_52: 3836813423602923476
-      Pub Duels pixel art_28: -7147053022259894556
-      Pub Duels pixel art_74: 8440021948525292672
-      Pub Duels pixel art_125: -3079243541186234693
-      Pub Duels pixel art_228: -1713720921060043511
-      Pub Duels pixel art_116: -6512124899112594940
-      Pub Duels pixel art_199: -525134645876958872
-      Pub Duels pixel art_204: -2487424050620252846
-      Pub Duels pixel art_210: 384733094892621420
-      Pub Duels pixel art_76: -3925142578432952266
-      Pub Duels pixel art_150: -6282752170669684340
-      Pub Duels pixel art_154: -7226620291220127141
-      Pub Duels pixel art_217: 1478709967993666421
-      Pub Duels pixel art_19: 8598943597042180255
-      Pub Duels pixel art_126: 1285813376930784611
-      Pub Duels pixel art_100: -5399323852068412283
-      Pub Duels pixel art_124: 1417645492
-      Pub Duels pixel art_241: -1702828663
-      Pub Duels pixel art_117: -70371380267426748
-      Pub Duels pixel art_67: -6415419526915181601
-      Pub Duels pixel art_94: -6215938286878909078
-      Pub Duels pixel art_24: 5766541957913480468
-      Pub Duels pixel art_205: -3038934081279367679
-      Pub Duels pixel art_211: 2289438859974763186
-      Pub Duels pixel art_2: 3546058910505251964
-      Pub Duels pixel art_25: -3472430213297136712
-      Pub Duels pixel art_10: 7468688830846591965
-      Pub Duels pixel art_237: -7215349972392074854
-      Pub Duels pixel art_80: 4407422568117745223
-      Pub Duels pixel art_40: 7285177382700154035
-      Pub Duels pixel art_8: 3176462070429442551
-      Pub Duels pixel art_32: -6201671809365404151
-      Pub Duels pixel art_55: -8844166785976846798
-      Pub Duels pixel art_133: 2723201910342768598
-      Pub Duels pixel art_213: 4860643344602537999
-      Pub Duels pixel art_166: -8708538169597743165
-      Pub Duels pixel art_17: -725968297527845182
-      Pub Duels pixel art_7: 5537558155469909374
-      Pub Duels pixel art_121: -191017944330933720
-      Pub Duels pixel art_201: 5452017969878381654
-      Pub Duels pixel art_245: -1866199382
-      Pub Duels pixel art_194: 2221549013758214360
-      Pub Duels pixel art_93: -7693825599227479899
-      Pub Duels pixel art_56: 8548612757501191083
-      Pub Duels pixel art_156: -4839503918530887660
-      Pub Duels pixel art_191: -4396836092533338797
-      Pub Duels pixel art_216: 4463243469108613629
-      Pub Duels pixel art_208: -761772638778808146
-      Pub Duels pixel art_139: -4812333021724712165
-      Pub Duels pixel art_240: 639011022
-      Pub Duels pixel art_235: -7486280713109429431
-      Pub Duels pixel art_41: -3211523730627372235
-      Pub Duels pixel art_141: 5501978693959848159
-      Pub Duels pixel art_23: 9009060329855818288
-      Pub Duels pixel art_106: -2012550563381548850
-      Pub Duels pixel art_77: 9047703767056941958
-      Pub Duels pixel art_243: 983706252
-      Pub Duels pixel art_244: -1933216221
-      Pub Duels pixel art_15: 1842392354827757201
-      Pub Duels pixel art_103: -2372341425794361781
-      Pub Duels pixel art_75: 993550929
-      Pub Duels pixel art_54: 8652022030007065551
-      Pub Duels pixel art_234: 2861916991917156804
-      Pub Duels pixel art_186: -4686437735171425183
-      Pub Duels pixel art_220: 8141015475237499678
-      Pub Duels pixel art_180: -1988962194026146147
-      Pub Duels pixel art_31: -2166525469526664690
-      Pub Duels pixel art_155: -4606450677878137088
-      Pub Duels pixel art_159: -7454407676125109531
-      Pub Duels pixel art_224: -5524182169718997825
-      Pub Duels pixel art_5: 1362865487103873481
-      Pub Duels pixel art_95: 5468191777890986756
-      Pub Duels pixel art_221: 8577243081332187942
-      Pub Duels pixel art_39: -5023695301586024586
-      Pub Duels pixel art_45: -1582666900993149779
-      Pub Duels pixel art_3: 3937769780112622596
-      Pub Duels pixel art_58: 6710795261437665006
-      Pub Duels pixel art_85: -788923835
-      Pub Duels pixel art_14: -7227176598846960108
-      Pub Duels pixel art_134: 2446574717437333722
-      Pub Duels pixel art_1: 8476857066902199941
-      Pub Duels pixel art_9: -1887603081631211754
-      Pub Duels pixel art_149: 8963327738929141737
-      Pub Duels pixel art_90: -7799964944430731378
-      Pub Duels pixel art_26: 4421299855414109976
-      Pub Duels pixel art_44: 3529643906509279070
-      Pub Duels pixel art_157: 753796063247976646
-      Pub Duels pixel art_214: 3706341643915503841
-      Pub Duels pixel art_182: 5482306481778257211
-      Pub Duels pixel art_168: -5501198703891968134
-      Pub Duels pixel art_30: 122920432378330479
-      Pub Duels pixel art_193: 8364401004787372296
-      Pub Duels pixel art_65: 4567157787372229499
-      Pub Duels pixel art_200: 5487769446521658471
-      Pub Duels pixel art_78: -4805334321609523586
-      Pub Duels pixel art_165: -3622559513641758185
-      Pub Duels pixel art_181: -1085886059965249771
-      Pub Duels pixel art_236: -1889281526352535735
-      Pub Duels pixel art_46: -2066078818873108412
-      Pub Duels pixel art_132: 6006163998418438156
-      Pub Duels pixel art_130: 4440490665075844392
-      Pub Duels pixel art_70: 8936803853636758806
-      Pub Duels pixel art_229: -399854842933071858
-      Pub Duels pixel art_62: 6067271192480004913
-      Pub Duels pixel art_108: -5661859919138507267
-      Pub Duels pixel art_48: 7342833002730051285
-      Pub Duels pixel art_176: 7807465311514200375
-      Pub Duels pixel art_47: -8275682283512579966
-      Pub Duels pixel art_161: -5431276916419792565
-      Pub Duels pixel art_189: -6970860885202184310
-      Pub Duels pixel art_135: -8267183197746659141
-      Pub Duels pixel art_12: 958714403336963539
-      Pub Duels pixel art_33: -8816904155929383744
-      Pub Duels pixel art_105: 3087045598703809466
-      Pub Duels pixel art_233: -4381845770231535417
-      Pub Duels pixel art_29: -7729860318190530757
-      Pub Duels pixel art_122: 4615744367160963951
-      Pub Duels pixel art_152: 6180338679816622339
-      Pub Duels pixel art_202: 6909529573512542323
-      Pub Duels pixel art_129: -4549386731431846615
-      Pub Duels pixel art_158: -5155214610305820422
-      Pub Duels pixel art_0: 3221416062547381880
-      Pub Duels pixel art_83: 827027920
-      Pub Duels pixel art_207: 7347382971734860549
-      Pub Duels pixel art_206: 4289696759139717354
-      Pub Duels pixel art_68: -2236082818069457564
-      Pub Duels pixel art_123: -4055487225797992371
-      Pub Duels pixel art_230: 4867668832114977090
-      Pub Duels pixel art_215: -3383354402135126763
-      Pub Duels pixel art_97: 7718930147355587365
+      Pub Duels pixel art_37: -24151350
+      Pub Duels pixel art_111: 1062299311
+      Pub Duels pixel art_203: -403853043
+      Pub Duels pixel art_167: 1545834722
+      Pub Duels pixel art_57: -943957972
+      Pub Duels pixel art_151: 1989863559
+      Pub Duels pixel art_79: 1470389677
+      Pub Duels pixel art_109: 1141350874
+      Pub Duels pixel art_145: 1378578121
+      Pub Duels pixel art_192: -1677141990
+      Pub Duels pixel art_11: 597203612
+      Pub Duels pixel art_64: 51512251
+      Pub Duels pixel art_169: -1463388842
+      Pub Duels pixel art_96: -834249202
+      Pub Duels pixel art_212: -1522457983
+      Pub Duels pixel art_38: -1007228244
+      Pub Duels pixel art_51: -1012199696
+      Pub Duels pixel art_225: -355470142
+      Pub Duels pixel art_102: 957579362
+      Pub Duels pixel art_36: -1750264957
+      Pub Duels pixel art_163: 1937320172
+      Pub Duels pixel art_88: -1267260581
+      Pub Duels pixel art_72: 43706637
+      Pub Duels pixel art_89: -108090292
+      Pub Duels pixel art_115: -198956573
+      Pub Duels pixel art_142: 1437237731
+      Pub Duels pixel art_43: 1782178916
+      Pub Duels pixel art_143: -789146282
+      Pub Duels pixel art_86: 1394211282
+      Pub Duels pixel art_50: 1907543544
+      Pub Duels pixel art_195: -958423120
+      Pub Duels pixel art_138: -1736484430
+      Pub Duels pixel art_128: 1752481035
+      Pub Duels pixel art_179: 595219481
+      Pub Duels pixel art_162: -1550806206
+      Pub Duels pixel art_104: -669768754
+      Pub Duels pixel art_137: 263385175
+      Pub Duels pixel art_21: 2053466866
+      Pub Duels pixel art_160: 1253164614
+      Pub Duels pixel art_99: -1591023534
+      Pub Duels pixel art_153: 1216280709
+      Pub Duels pixel art_190: 446437829
+      Pub Duels pixel art_27: 2017004479
+      Pub Duels pixel art_35: -1606107646
+      Pub Duels pixel art_61: 1378891338
+      Pub Duels pixel art_146: -1636606380
+      Pub Duels pixel art_16: 702460727
+      Pub Duels pixel art_227: -780187237
+      Pub Duels pixel art_63: 1326404505
+      Pub Duels pixel art_120: -456646096
+      Pub Duels pixel art_20: -290643315
+      Pub Duels pixel art_223: -2028744255
+      Pub Duels pixel art_218: 1957741339
+      Pub Duels pixel art_98: 115160250
+      Pub Duels pixel art_238: 53600656
+      Pub Duels pixel art_81: -1157359155
+      Pub Duels pixel art_164: 483922983
+      Pub Duels pixel art_6: -1874420383
+      Pub Duels pixel art_144: 1486921199
+      Pub Duels pixel art_172: 1313939231
+      Pub Duels pixel art_171: -839550988
+      Pub Duels pixel art_231: -1330461393
+      Pub Duels pixel art_222: -2129205870
+      Pub Duels pixel art_239: -5087794
+      Pub Duels pixel art_107: 171176191
+      Pub Duels pixel art_131: -1539349192
+      Pub Duels pixel art_184: -1336682471
+      Pub Duels pixel art_113: -1092227402
+      Pub Duels pixel art_22: 996145313
+      Pub Duels pixel art_183: -806446012
+      Pub Duels pixel art_110: 891127210
+      Pub Duels pixel art_170: 1722499157
+      Pub Duels pixel art_187: 982385121
+      Pub Duels pixel art_13: -32199497
+      Pub Duels pixel art_82: -1101447983
+      Pub Duels pixel art_188: 592269326
+      Pub Duels pixel art_101: -1741878424
+      Pub Duels pixel art_148: -1708158084
+      Pub Duels pixel art_197: -1106469322
+      Pub Duels pixel art_118: 1319191283
+      Pub Duels pixel art_84: 498135132
+      Pub Duels pixel art_114: 2027431004
+      Pub Duels pixel art_147: 788973849
+      Pub Duels pixel art_73: -1969857004
+      Pub Duels pixel art_92: 2142783360
+      Pub Duels pixel art_87: -1981347198
+      Pub Duels pixel art_91: 1941155413
+      Pub Duels pixel art_49: 853389400
+      Pub Duels pixel art_140: -909635714
+      Pub Duels pixel art_174: -1863670699
+      Pub Duels pixel art_136: -656552998
+      Pub Duels pixel art_232: 1555866437
+      Pub Duels pixel art_196: -1077504913
+      Pub Duels pixel art_4: -2053202187
+      Pub Duels pixel art_42: 1466808378
+      Pub Duels pixel art_59: 1802176657
+      Pub Duels pixel art_175: -1147797521
+      Pub Duels pixel art_18: -2136206145
+      Pub Duels pixel art_53: 1235612108
+      Pub Duels pixel art_198: -470650245
+      Pub Duels pixel art_66: 227695211
+      Pub Duels pixel art_127: 1223388671
+      Pub Duels pixel art_177: -1947028925
+      Pub Duels pixel art_112: 319476275
+      Pub Duels pixel art_209: -651708140
+      Pub Duels pixel art_60: 1674019151
+      Pub Duels pixel art_185: -1100318822
+      Pub Duels pixel art_226: 1412999366
+      Pub Duels pixel art_69: 1876183163
+      Pub Duels pixel art_173: -885922441
+      Pub Duels pixel art_119: -1237785995
+      Pub Duels pixel art_34: 1440624367
+      Pub Duels pixel art_71: 35096503
+      Pub Duels pixel art_219: 1904996332
+      Pub Duels pixel art_178: 543553560
+      Pub Duels pixel art_52: -403867995
+      Pub Duels pixel art_28: 132139398
+      Pub Duels pixel art_74: -263218637
+      Pub Duels pixel art_125: 1141889117
+      Pub Duels pixel art_228: -1874447518
+      Pub Duels pixel art_116: -1421652239
+      Pub Duels pixel art_199: 1666623937
+      Pub Duels pixel art_204: 283717874
+      Pub Duels pixel art_210: -1766162398
+      Pub Duels pixel art_76: 1231702327
+      Pub Duels pixel art_150: -1927435791
+      Pub Duels pixel art_154: 931094561
+      Pub Duels pixel art_217: -620785298
+      Pub Duels pixel art_19: -1003158073
+      Pub Duels pixel art_126: 882994679
+      Pub Duels pixel art_100: 889435381
+      Pub Duels pixel art_124: 843257844
+      Pub Duels pixel art_67: 219849142
+      Pub Duels pixel art_117: 205246659
+      Pub Duels pixel art_94: -2063312248
+      Pub Duels pixel art_24: -707400678
+      Pub Duels pixel art_205: 1458110432
+      Pub Duels pixel art_211: 1240826508
+      Pub Duels pixel art_2: 478692343
+      Pub Duels pixel art_10: 222082086
+      Pub Duels pixel art_25: -2066692169
+      Pub Duels pixel art_237: 1674915742
+      Pub Duels pixel art_80: -1143071957
+      Pub Duels pixel art_40: -1102845699
+      Pub Duels pixel art_8: -537732588
+      Pub Duels pixel art_32: -1743495361
+      Pub Duels pixel art_55: -252821845
+      Pub Duels pixel art_133: -1097969725
+      Pub Duels pixel art_213: -1581060079
+      Pub Duels pixel art_166: 1526333859
+      Pub Duels pixel art_17: -1771482591
+      Pub Duels pixel art_7: -1821376213
+      Pub Duels pixel art_121: 891899910
+      Pub Duels pixel art_201: -1376677767
+      Pub Duels pixel art_194: -314016185
+      Pub Duels pixel art_93: -343470181
+      Pub Duels pixel art_56: 905365911
+      Pub Duels pixel art_156: -458968094
+      Pub Duels pixel art_191: -1402268076
+      Pub Duels pixel art_216: -43497403
+      Pub Duels pixel art_208: -527154948
+      Pub Duels pixel art_139: -555324433
+      Pub Duels pixel art_235: 745683324
+      Pub Duels pixel art_41: -909347817
+      Pub Duels pixel art_141: -840527508
+      Pub Duels pixel art_23: -1910098920
+      Pub Duels pixel art_106: 990161491
+      Pub Duels pixel art_77: -2110804271
+      Pub Duels pixel art_15: -1329777306
+      Pub Duels pixel art_75: 784428043
+      Pub Duels pixel art_103: 1982619662
+      Pub Duels pixel art_54: -454158706
+      Pub Duels pixel art_234: 725805353
+      Pub Duels pixel art_186: -1703074546
+      Pub Duels pixel art_220: 910626779
+      Pub Duels pixel art_180: 1749561136
+      Pub Duels pixel art_31: -1074496355
+      Pub Duels pixel art_155: 1262078904
+      Pub Duels pixel art_159: -554884568
+      Pub Duels pixel art_224: 66743599
+      Pub Duels pixel art_5: 1376157193
+      Pub Duels pixel art_95: 730970714
+      Pub Duels pixel art_221: 996115402
+      Pub Duels pixel art_39: -1561034639
+      Pub Duels pixel art_45: -827494173
+      Pub Duels pixel art_3: 847486716
+      Pub Duels pixel art_58: -1230665710
+      Pub Duels pixel art_85: -1400258670
+      Pub Duels pixel art_14: 777536025
+      Pub Duels pixel art_134: 1434104446
+      Pub Duels pixel art_1: 1603389909
+      Pub Duels pixel art_9: 1860620769
+      Pub Duels pixel art_149: 368977613
+      Pub Duels pixel art_90: -49543461
+      Pub Duels pixel art_26: -135988829
+      Pub Duels pixel art_44: 205926088
+      Pub Duels pixel art_157: 631629499
+      Pub Duels pixel art_214: -1472560999
+      Pub Duels pixel art_182: 1213959890
+      Pub Duels pixel art_168: 1163035428
+      Pub Duels pixel art_30: 1154156065
+      Pub Duels pixel art_193: -894647012
+      Pub Duels pixel art_65: -1792775093
+      Pub Duels pixel art_200: 1028296253
+      Pub Duels pixel art_78: 202191477
+      Pub Duels pixel art_165: 15856277
+      Pub Duels pixel art_181: -1910062104
+      Pub Duels pixel art_236: -1398002306
+      Pub Duels pixel art_46: 1562816054
+      Pub Duels pixel art_132: -1406172119
+      Pub Duels pixel art_130: 1073843792
+      Pub Duels pixel art_70: 260404263
+      Pub Duels pixel art_229: -1675245886
+      Pub Duels pixel art_62: -425164642
+      Pub Duels pixel art_108: -983272585
+      Pub Duels pixel art_48: 1863759176
+      Pub Duels pixel art_176: 676485479
+      Pub Duels pixel art_47: 415538687
+      Pub Duels pixel art_161: -1231435684
+      Pub Duels pixel art_189: 917239189
+      Pub Duels pixel art_129: -1480285624
+      Pub Duels pixel art_135: -2096904975
+      Pub Duels pixel art_12: 1257816864
+      Pub Duels pixel art_105: 1839476906
+      Pub Duels pixel art_33: -2079163132
+      Pub Duels pixel art_29: -353294177
+      Pub Duels pixel art_122: -504333954
+      Pub Duels pixel art_152: 488166338
+      Pub Duels pixel art_202: 811073587
+      Pub Duels pixel art_230: -935256866
+      Pub Duels pixel art_233: 1047960807
+      Pub Duels pixel art_158: 1320988005
+      Pub Duels pixel art_0: -403096300
+      Pub Duels pixel art_83: -649600916
+      Pub Duels pixel art_207: -762750384
+      Pub Duels pixel art_206: -158295035
+      Pub Duels pixel art_68: -1306123925
+      Pub Duels pixel art_123: 558286546
+      Pub Duels pixel art_215: 636064282
+      Pub Duels pixel art_97: 620504255
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

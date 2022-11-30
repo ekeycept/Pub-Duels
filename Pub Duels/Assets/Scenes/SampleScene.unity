@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 64205413}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (5)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -174,7 +174,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -223,12 +223,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -285,7 +285,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -334,12 +334,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -389,7 +389,7 @@ GameObject:
   - component: {fileID: 129904028}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (1)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -427,7 +427,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -476,12 +476,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -554,7 +554,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -603,12 +603,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 193782066}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (15)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -665,7 +665,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -714,12 +714,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -738,7 +738,7 @@ GameObject:
   - component: {fileID: 294740321}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (13)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -776,7 +776,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -825,12 +825,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -849,7 +849,7 @@ GameObject:
   - component: {fileID: 296990982}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (12)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -887,7 +887,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -936,12 +936,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -998,7 +998,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1047,12 +1047,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1071,7 +1071,7 @@ GameObject:
   - component: {fileID: 402750804}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (8)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1109,7 +1109,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1158,12 +1158,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1220,7 +1220,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1269,12 +1269,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1293,7 +1293,7 @@ GameObject:
   - component: {fileID: 425772161}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (2)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1331,7 +1331,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1380,12 +1380,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1442,7 +1442,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1491,12 +1491,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1553,7 +1553,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1602,12 +1602,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1664,7 +1664,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1713,12 +1713,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1802,13 +1802,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.152, y: 0.204, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1965525945}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 561560985}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -1894,7 +1894,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -1943,12 +1943,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2038,12 +2038,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -900584587732534945, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: 597203612, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.27}
+  m_Size: {x: 0.06, y: 0.1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2064,7 +2064,8 @@ Transform:
   - {fileID: 2044726607}
   - {fileID: 1570058618}
   - {fileID: 116994548}
-  - {fileID: 1987270760}
+  - {fileID: 519420032}
+  - {fileID: 1541668915}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2113,11 +2114,7 @@ MonoBehaviour:
   speed: 7
   animator: {fileID: 561560990}
   sr: {fileID: 561560984}
-  effect: {fileID: 5872596763898223232, guid: d3451db9b5a8b024ca83de554454fe43, type: 3}
   fieldOfView: {fileID: 1541668916}
-  grenade: {fileID: 8121834540209764853, guid: de4beb86038e6f44c9abc1cbdd127999, type: 3}
-  grenadePos: {fileID: 1987270760}
-  grenadeSpeed: 0
 --- !u!70 &561560989
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2205,7 +2202,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2254,12 +2251,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2279,7 +2276,7 @@ GameObject:
   - component: {fileID: 592654936}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2332,7 +2329,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2381,12 +2378,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2443,7 +2440,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2492,12 +2489,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2516,7 +2513,7 @@ GameObject:
   - component: {fileID: 610753054}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (7)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2554,7 +2551,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2603,12 +2600,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2627,7 +2624,7 @@ GameObject:
   - component: {fileID: 631711473}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (4)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2665,7 +2662,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2714,12 +2711,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2738,7 +2735,7 @@ GameObject:
   - component: {fileID: 670368346}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (9)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2776,7 +2773,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2825,12 +2822,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2895,12 +2892,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7227176598846960108, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: 777536025, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.27}
+  m_Size: {x: 0.16, y: 0.28}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2939,7 +2936,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.16, y: 0.27}
-    newSize: {x: 0.16, y: 0.27}
+    newSize: {x: 0.16, y: 0.28}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -2960,7 +2957,7 @@ GameObject:
   - component: {fileID: 772000449}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (15)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2998,7 +2995,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3047,12 +3044,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3140,7 +3137,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3189,12 +3186,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3251,7 +3248,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3300,12 +3297,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3324,7 +3321,7 @@ GameObject:
   - component: {fileID: 912205469}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (5)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3362,7 +3359,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3411,12 +3408,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3435,7 +3432,7 @@ GameObject:
   - component: {fileID: 968295481}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (6)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3473,7 +3470,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3522,12 +3519,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3546,7 +3543,7 @@ GameObject:
   - component: {fileID: 974717465}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (2)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3584,7 +3581,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3633,12 +3630,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3657,7 +3654,7 @@ GameObject:
   - component: {fileID: 990785535}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (3)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3695,7 +3692,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3744,12 +3741,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3768,7 +3765,7 @@ GameObject:
   - component: {fileID: 1031018290}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (10)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3806,7 +3803,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3855,12 +3852,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3879,7 +3876,7 @@ GameObject:
   - component: {fileID: 1110449681}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (6)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3917,7 +3914,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3966,12 +3963,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3988,7 +3985,7 @@ GameObject:
   - component: {fileID: 1156632021}
   m_Layer: 6
   m_Name: Ground
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4037,7 +4034,7 @@ GameObject:
   - component: {fileID: 1221429733}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (14)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4075,7 +4072,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4124,12 +4121,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4148,7 +4145,7 @@ GameObject:
   - component: {fileID: 1397588182}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (12)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4186,7 +4183,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4235,12 +4232,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4259,7 +4256,7 @@ GameObject:
   - component: {fileID: 1449435109}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (8)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4297,7 +4294,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4346,12 +4343,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4536,7 +4533,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4585,12 +4582,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4609,7 +4606,7 @@ GameObject:
   - component: {fileID: 1509704636}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (10)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4647,7 +4644,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4696,12 +4693,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4720,7 +4717,7 @@ GameObject:
   - component: {fileID: 1519609390}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (9)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4758,7 +4755,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4807,12 +4804,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4869,7 +4866,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -4918,12 +4915,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4942,7 +4939,7 @@ GameObject:
   - component: {fileID: 1533180284}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (3)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4980,7 +4977,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5029,12 +5026,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5067,12 +5064,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1541668914}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.152, y: 0.281, z: 0}
+  m_LocalPosition: {x: 0, y: 0.07699999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 561560985}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1541668916
 MonoBehaviour:
@@ -5183,7 +5180,7 @@ GameObject:
   - component: {fileID: 1672216114}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (11)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5221,7 +5218,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5270,12 +5267,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5292,7 +5289,7 @@ GameObject:
   - component: {fileID: 1762721351}
   m_Layer: 6
   m_Name: Ground (1)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5342,7 +5339,7 @@ GameObject:
   - component: {fileID: 1764835387}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5380,7 +5377,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5429,12 +5426,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5515,7 +5512,7 @@ GameObject:
   - component: {fileID: 1899671167}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (4)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5553,7 +5550,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5602,12 +5599,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5664,7 +5661,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5713,12 +5710,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5821,7 +5818,7 @@ GameObject:
   - component: {fileID: 1969581203}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (14)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5859,7 +5856,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5908,12 +5905,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5932,7 +5929,7 @@ GameObject:
   - component: {fileID: 1975353395}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (1)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5970,7 +5967,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -6019,48 +6016,17 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1987270759
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1987270760}
-  m_Layer: 7
-  m_Name: Grenade Position
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1987270760
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1987270759}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.052, y: -0.018, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 561560985}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2037019403
 GameObject:
   m_ObjectHideFlags: 0
@@ -6074,7 +6040,7 @@ GameObject:
   - component: {fileID: 2037019405}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (7)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6112,7 +6078,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -6161,74 +6127,17 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &2043211592
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2504350413976109618, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_Name
-      value: Trap
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_RootOrder
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.432
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.031
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2504350413976109622, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5dd4734bd5c00034e9e7e9537b45e9a1, type: 3}
 --- !u!1 &2044726606
 GameObject:
   m_ObjectHideFlags: 0
@@ -6287,7 +6196,6 @@ MonoBehaviour:
   Player: {fileID: 561560981}
   shotPoint: {fileID: 784119221}
   ShotSound: {fileID: 1493530636}
-  animator: {fileID: 2044726610}
 --- !u!212 &2044726609
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6329,12 +6237,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -3865596451174240736, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -290643315, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.22, y: 0.06}
+  m_Size: {x: 0.16, y: 0.27}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6411,7 +6319,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -6460,12 +6368,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6484,7 +6392,7 @@ GameObject:
   - component: {fileID: 2103074661}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (11)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6522,7 +6430,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -6571,12 +6479,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6595,7 +6503,7 @@ GameObject:
   - component: {fileID: 2134874733}
   m_Layer: 6
   m_Name: Pub Duels pixel art_1 (13)
-  m_TagString: Ground
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6633,7 +6541,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.18, y: 0.21}
-    newSize: {x: 0.18, y: 0.21}
+    newSize: {x: 0.47, y: 0.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -6682,91 +6590,14 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6201961859896769561, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
+  m_Sprite: {fileID: -2053202187, guid: 572312ea4f5083d46a7615c8728d58a5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.21}
+  m_Size: {x: 0.47, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &8134953380171333552
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8134953381201528000, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_Name
-      value: PS Boom
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528002, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: stopAction
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528002, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: lengthInSec
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528002, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: playOnAwake
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528002, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: InitialModule.startSpeed.scalar
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528002, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: InitialModule.startLifetime.scalar
-      value: 0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_RootOrder
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.455
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.047
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.450975
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8134953381201528003, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: beb42028fd5553c41b780d2751ea62b3, type: 3}
