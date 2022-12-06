@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 505482797192680255}
   - component: {fileID: 5257733392276603655}
   - component: {fileID: 8930160993575640629}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_125 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2408297887889514260}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: floor set
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -157,7 +157,7 @@ GameObject:
   - component: {fileID: 8106877096825555519}
   - component: {fileID: 792737134118560304}
   - component: {fileID: 6075744376615555478}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_125 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 3483774340406541156}
   - component: {fileID: 5699984322307916495}
   - component: {fileID: 7100400512602841547}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_125 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +379,7 @@ GameObject:
   - component: {fileID: 3798661605673978491}
   - component: {fileID: 9104749421216769602}
   - component: {fileID: 313626982944303094}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_125 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

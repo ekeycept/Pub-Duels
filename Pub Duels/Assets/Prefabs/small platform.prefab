@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1460088424715620233}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: small platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 1484001344262875892}
   - component: {fileID: 6464145781822925382}
   - component: {fileID: 6373352673145457037}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_104
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ GameObject:
   - component: {fileID: 3324035767215534945}
   - component: {fileID: 4371008018359943642}
   - component: {fileID: 8104348092890632435}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_105
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 393015115835795304}
   - component: {fileID: 6089941730200419437}
   - component: {fileID: 8941386060463402226}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pub Duels pixel art_103
   m_TagString: Untagged
   m_Icon: {fileID: 0}
